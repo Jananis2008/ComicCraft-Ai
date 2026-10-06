@@ -1,0 +1,134 @@
+{
+  "request": {
+    "story_prompt": "The Lost Time Machine\r\nA young girl discovers an abandoned time machine and accidentally travels 100 years into the future, where she must find a way back home.\r\nThe Time Traveler's Secret\r\nA teenager finds a mysterious watch that can transport him through time, but every journey changes something in the present.\r\nBack to the Dinosaur Age\r\nA young inventor travels millions of years into the past and must survive among dinosaurs while searching for a way home.\r\nThe Future City\r\nA curious boy travels 200 years into the future and discovers a city controlled by artificial intelligence.\r\nSave the Future\r\nA girl travels from the present to the future and learns that one small event in her childhood could determine the fate of the world.",
+    "character_name": "Alex",
+    "setting": "enchanted forest",
+    "tone": "adventurous",
+    "art_style": "comic book"
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Beginning",
+        "scene_description": "Alex enters the enchanted forest.",
+        "image_prompt": "Alex entering a enchanted forest, comic book, cinematic comic panel"
+      },
+      {
+        "panel_number": 2,
+        "title": "The Discovery",
+        "scene_description": "Alex discovers something mysterious.",
+        "image_prompt": "Alex discovering a mysterious glowing object in the enchanted forest, comic book"
+      },
+      {
+        "panel_number": 3,
+        "title": "The Challenge",
+        "scene_description": "A difficult challenge suddenly appears.",
+        "image_prompt": "Alex facing a dramatic challenge in the enchanted forest, comic book"
+      },
+      {
+        "panel_number": 4,
+        "title": "The Solution",
+        "scene_description": "Alex finds a creative solution.",
+        "image_prompt": "Alex solving the challenge using courage and creativity, comic book"
+      },
+      {
+        "panel_number": 5,
+        "title": "The Ending",
+        "scene_description": "Alex completes the adventure successfully.",
+        "image_prompt": "Alex celebrating in the enchanted forest, happy ending, comic book"
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Beginning",
+        "caption": "The Beginning",
+        "narration": "Alex enters the enchanted forest.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "The Discovery",
+        "caption": "The Discovery",
+        "narration": "Alex discovers something mysterious.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "The Challenge",
+        "caption": "The Challenge",
+        "narration": "A difficult challenge suddenly appears.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "The Solution",
+        "caption": "The Solution",
+        "narration": "Alex finds a creative solution.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "The Ending",
+        "caption": "The Ending",
+        "narration": "Alex completes the adventure successfully.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Beginning",
+      "scene_description": "Alex enters the enchanted forest.",
+      "image_prompt": "Alex entering a enchanted forest, comic book, cinematic comic panel",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Beginning",
+      "narration": "Alex enters the enchanted forest.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "The Discovery",
+      "scene_description": "Alex discovers something mysterious.",
+      "image_prompt": "Alex discovering a mysterious glowing object in the enchanted forest, comic book",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "The Discovery",
+      "narration": "Alex discovers something mysterious.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "The Challenge",
+      "scene_description": "A difficult challenge suddenly appears.",
+      "image_prompt": "Alex facing a dramatic challenge in the enchanted forest, comic book",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "The Challenge",
+      "narration": "A difficult challenge suddenly appears.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "The Solution",
+      "scene_description": "Alex finds a creative solution.",
+      "image_prompt": "Alex solving the challenge using courage and creativity, comic book",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "The Solution",
+      "narration": "Alex finds a creative solution.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "The Ending",
+      "scene_description": "Alex completes the adventure successfully.",
+      "image_prompt": "Alex celebrating in the enchanted forest, happy ending, comic book",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "The Ending",
+      "narration": "Alex completes the adventure successfully.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+.env
+
+.vscode/
+
+static/panels/*.png
+static/exports/*.pdf
+static/jobs/*.json
+
+*.log

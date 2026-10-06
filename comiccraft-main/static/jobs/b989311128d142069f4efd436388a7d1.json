@@ -1,0 +1,134 @@
+{
+  "request": {
+    "story_prompt": "Maya is a young girl who enters a mysterious forest alone. Deep inside the forest, she discovers an old Game Machine near a huge tree.\r\nCurious, Maya touches the machine.\r\nSuddenly—\r\n“GAME START!” 🎮\r\nThe forest gates close, and Maya becomes trapped inside the game.\r\n🔴 Level 1 – Forest Run\r\nMaya must run through the dark forest while a terrifying shadow chases her. She avoids dangerous obstacles and successfully completes Level 1.\r\n🟠 Level 2 – Mystery House\r\nMaya enters an abandoned house filled with mysterious puzzles. She must solve the puzzles and find the correct exit before the game resets.\r\nUsing her intelligence, Maya completes Level 2.\r\n🟢 Level 3 – Final Choice\r\nMaya reaches the final room. On a table, she finds two cards:\r\n1️⃣ LOSE\r\n2️⃣ WIN\r\nA mysterious voice says:\r\n“Choose only one card…”\r\nMaya takes a deep breath and chooses the WIN card.\r\nSuddenly—\r\n💥 GAME COMPLETED! 💥\r\nThe door opens, and Maya escapes from the forest.\r\nOutside, she discovers the game's grand prize: bags of money, gold, and treasure. 💰💎",
+    "character_name": "Maya",
+    "setting": "enchanted forest",
+    "tone": "adventurous",
+    "art_style": "comic book"
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Mysterious Discovery",
+        "scene_description": "Maya, a young girl with a backpack, stands before a massive, ancient tree in the heart of an enchanted forest. She reaches out to touch an old, glowing arcade machine embedded in the tree's roots.",
+        "image_prompt": "Comic book style, young girl Maya with brown hair and a light jacket, standing in a lush dark forest, touching a retro arcade machine that has a glowing screen, magical atmosphere, vibrant colors, detailed line art."
+      },
+      {
+        "panel_number": 2,
+        "title": "Trapped in the Game",
+        "scene_description": "The arcade machine flashes the text GAME START in neon pixels. The forest entrance behind Maya slams shut with glowing magical bars, trapping her inside as the environment begins to pixelate.",
+        "image_prompt": "Comic book art, Maya looking startled, forest path behind her blocked by digital neon bars, the arcade machine screen showing GAME START, glitch effects in the air, intense lighting."
+      },
+      {
+        "panel_number": 3,
+        "title": "The Forest Chase",
+        "scene_description": "Maya is sprinting through a dark, twisted section of the forest. A giant, amorphous shadow monster with glowing eyes looms behind her, while she nimbly leaps over a fallen log.",
+        "image_prompt": "Action-oriented comic panel, Maya running fast, dynamic pose, giant dark shadow creature with red glowing eyes pursuing her, forest filled with obstacles, motion lines, high tension."
+      },
+      {
+        "panel_number": 4,
+        "title": "The Final Choice",
+        "scene_description": "Inside a dim, eerie room, Maya stands before a table. On the table lie two playing cards: one labeled LOSE and one labeled WIN. She reaches out to grab the WIN card.",
+        "image_prompt": "Close-up comic panel, Maya's hand hovering over two cards on a wooden table, one card says WIN in bold letters, the other says LOSE, mysterious ambient glow, dramatic shadows, focus on the choice."
+      },
+      {
+        "panel_number": 5,
+        "title": "The Reward",
+        "scene_description": "Maya walks out of the forest, which has returned to normal. Behind her, the arcade machine has vanished, and she stands before massive piles of gold coins and treasure chests.",
+        "image_prompt": "Wide comic panel, Maya standing outside the forest edge, smiling in relief, piles of gold coins and sparkling treasure chests scattered on the grass, bright sunlight, cinematic ending, vibrant colors."
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Mysterious Discovery",
+        "caption": "The Mysterious Discovery",
+        "narration": "Maya, a young girl with a backpack, stands before a massive, ancient tree in the heart of an enchanted forest. She reaches out to touch an old, glowing arcade machine embedded in the tree's roots.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "Trapped in the Game",
+        "caption": "Trapped in the Game",
+        "narration": "The arcade machine flashes the text GAME START in neon pixels. The forest entrance behind Maya slams shut with glowing magical bars, trapping her inside as the environment begins to pixelate.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "The Forest Chase",
+        "caption": "The Forest Chase",
+        "narration": "Maya is sprinting through a dark, twisted section of the forest. A giant, amorphous shadow monster with glowing eyes looms behind her, while she nimbly leaps over a fallen log.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "The Final Choice",
+        "caption": "The Final Choice",
+        "narration": "Inside a dim, eerie room, Maya stands before a table. On the table lie two playing cards: one labeled LOSE and one labeled WIN. She reaches out to grab the WIN card.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "The Reward",
+        "caption": "The Reward",
+        "narration": "Maya walks out of the forest, which has returned to normal. Behind her, the arcade machine has vanished, and she stands before massive piles of gold coins and treasure chests.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Mysterious Discovery",
+      "scene_description": "Maya, a young girl with a backpack, stands before a massive, ancient tree in the heart of an enchanted forest. She reaches out to touch an old, glowing arcade machine embedded in the tree's roots.",
+      "image_prompt": "Comic book style, young girl Maya with brown hair and a light jacket, standing in a lush dark forest, touching a retro arcade machine that has a glowing screen, magical atmosphere, vibrant colors, detailed line art.",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Mysterious Discovery",
+      "narration": "Maya, a young girl with a backpack, stands before a massive, ancient tree in the heart of an enchanted forest. She reaches out to touch an old, glowing arcade machine embedded in the tree's roots.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "Trapped in the Game",
+      "scene_description": "The arcade machine flashes the text GAME START in neon pixels. The forest entrance behind Maya slams shut with glowing magical bars, trapping her inside as the environment begins to pixelate.",
+      "image_prompt": "Comic book art, Maya looking startled, forest path behind her blocked by digital neon bars, the arcade machine screen showing GAME START, glitch effects in the air, intense lighting.",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "Trapped in the Game",
+      "narration": "The arcade machine flashes the text GAME START in neon pixels. The forest entrance behind Maya slams shut with glowing magical bars, trapping her inside as the environment begins to pixelate.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "The Forest Chase",
+      "scene_description": "Maya is sprinting through a dark, twisted section of the forest. A giant, amorphous shadow monster with glowing eyes looms behind her, while she nimbly leaps over a fallen log.",
+      "image_prompt": "Action-oriented comic panel, Maya running fast, dynamic pose, giant dark shadow creature with red glowing eyes pursuing her, forest filled with obstacles, motion lines, high tension.",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "The Forest Chase",
+      "narration": "Maya is sprinting through a dark, twisted section of the forest. A giant, amorphous shadow monster with glowing eyes looms behind her, while she nimbly leaps over a fallen log.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "The Final Choice",
+      "scene_description": "Inside a dim, eerie room, Maya stands before a table. On the table lie two playing cards: one labeled LOSE and one labeled WIN. She reaches out to grab the WIN card.",
+      "image_prompt": "Close-up comic panel, Maya's hand hovering over two cards on a wooden table, one card says WIN in bold letters, the other says LOSE, mysterious ambient glow, dramatic shadows, focus on the choice.",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "The Final Choice",
+      "narration": "Inside a dim, eerie room, Maya stands before a table. On the table lie two playing cards: one labeled LOSE and one labeled WIN. She reaches out to grab the WIN card.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "The Reward",
+      "scene_description": "Maya walks out of the forest, which has returned to normal. Behind her, the arcade machine has vanished, and she stands before massive piles of gold coins and treasure chests.",
+      "image_prompt": "Wide comic panel, Maya standing outside the forest edge, smiling in relief, piles of gold coins and sparkling treasure chests scattered on the grass, bright sunlight, cinematic ending, vibrant colors.",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "The Reward",
+      "narration": "Maya walks out of the forest, which has returned to normal. Behind her, the arcade machine has vanished, and she stands before massive piles of gold coins and treasure chests.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

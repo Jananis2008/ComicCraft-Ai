@@ -1,0 +1,134 @@
+{
+  "request": {
+    "story_prompt": "Maya is a young girl who enters a mysterious forest alone. Deep inside the forest, she discovers an old Game Machine near a huge tree.\r\nCurious, Maya touches the machine.\r\nSuddenly—\r\n“GAME START!” 🎮\r\nThe forest gates close, and Maya becomes trapped inside the game.\r\n🔴 Level 1 – Forest Run\r\nMaya must run through the dark forest while a terrifying shadow chases her. She avoids dangerous obstacles and successfully completes Level 1.\r\n🟠 Level 2 – Mystery House\r\nMaya enters an abandoned house filled with mysterious puzzles. She must solve the puzzles and find the correct exit before the game resets.\r\nUsing her intelligence, Maya completes Level 2.\r\n🟢 Level 3 – Final Choice\r\nMaya reaches the final room. On a table, she finds two cards:\r\n1️⃣ LOSE\r\n2️⃣ WIN\r\nA mysterious voice says:\r\n“Choose only one card…”\r\nMaya takes a deep breath and chooses the WIN card.\r\nSuddenly—\r\n💥 GAME COMPLETED! 💥\r\nThe door opens, and Maya escapes from the forest.\r\nOutside, she discovers the game's grand prize: bags of money, gold, and treasure. 💰💎",
+    "character_name": "Maya",
+    "setting": "Forest",
+    "tone": "Suspense",
+    "art_style": "Cinematic"
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Forbidden Discovery",
+        "scene_description": "Maya, a young girl with a curious expression, stands alone in a dense, misty forest. She discovers an ancient, glowing arcade machine embedded into the roots of a colossal, gnarled tree.",
+        "image_prompt": "Cinematic shot, young girl with messy hair wearing a simple hoodie, standing before a retro vintage arcade machine glowing with neon light in a dark, misty forest, mossy gnarled tree roots, volumetric lighting, hyper-realistic, dark fantasy atmosphere."
+      },
+      {
+        "panel_number": 2,
+        "title": "The Digital Trap",
+        "scene_description": "As Maya touches the screen, a massive 'GAME START!' text flashes in red neon. The forest behind her transforms into digital pixelated gates that slam shut, trapping her in a glowing, glitchy dimension.",
+        "image_prompt": "Action shot, Maya reaching out to touch an arcade screen, bright red digital text 'GAME START!' exploding from the screen, surrounding forest trees turning into digital pixelated data blocks, cinematic lighting, high contrast, suspenseful atmosphere."
+      },
+      {
+        "panel_number": 3,
+        "title": "Level 1: The Shadow Chase",
+        "scene_description": "Maya sprints through the dark forest floor, her face filled with terror. A towering, amorphous shadow creature with glowing eyes looms right behind her, forcing her to leap over jagged, glowing roots.",
+        "image_prompt": "Dynamic motion blur, Maya running through a dark forest, a terrifying dark shadow monster with glowing red eyes chasing her, bioluminescent plants on the ground, cinematic action camera angle, intense suspense."
+      },
+      {
+        "panel_number": 4,
+        "title": "Level 2: The Logic Puzzle",
+        "scene_description": "Inside a dilapidated, Victorian-style abandoned house, Maya stands before a complex wall of glowing puzzle switches. She looks focused and determined, her hands moving to align the final pieces.",
+        "image_prompt": "Interior shot, abandoned house with peeling wallpaper, Maya solving a glowing mechanical wall puzzle, dust motes dancing in light beams, serious expression, cinematic lighting, detailed textures, mystery vibe."
+      },
+      {
+        "panel_number": 5,
+        "title": "The Final Reward",
+        "scene_description": "Having chosen the 'WIN' card, the forest gate vanishes. Maya stands in a clearing under the morning sun, surrounded by piles of gold coins and treasure chests that appeared as her prize.",
+        "image_prompt": "Wide angle cinematic shot, morning sunlight breaking through forest canopy, Maya standing triumphant in a clearing, piles of gold coins and sparkling jewels scattered around her, soft cinematic lighting, dreamlike resolution."
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Forbidden Discovery",
+        "caption": "The Forbidden Discovery",
+        "narration": "Maya, a young girl with a curious expression, stands alone in a dense, misty forest. She discovers an ancient, glowing arcade machine embedded into the roots of a colossal, gnarled tree.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "The Digital Trap",
+        "caption": "The Digital Trap",
+        "narration": "As Maya touches the screen, a massive 'GAME START!' text flashes in red neon. The forest behind her transforms into digital pixelated gates that slam shut, trapping her in a glowing, glitchy dimension.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "Level 1: The Shadow Chase",
+        "caption": "Level 1: The Shadow Chase",
+        "narration": "Maya sprints through the dark forest floor, her face filled with terror. A towering, amorphous shadow creature with glowing eyes looms right behind her, forcing her to leap over jagged, glowing roots.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "Level 2: The Logic Puzzle",
+        "caption": "Level 2: The Logic Puzzle",
+        "narration": "Inside a dilapidated, Victorian-style abandoned house, Maya stands before a complex wall of glowing puzzle switches. She looks focused and determined, her hands moving to align the final pieces.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "The Final Reward",
+        "caption": "The Final Reward",
+        "narration": "Having chosen the 'WIN' card, the forest gate vanishes. Maya stands in a clearing under the morning sun, surrounded by piles of gold coins and treasure chests that appeared as her prize.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Forbidden Discovery",
+      "scene_description": "Maya, a young girl with a curious expression, stands alone in a dense, misty forest. She discovers an ancient, glowing arcade machine embedded into the roots of a colossal, gnarled tree.",
+      "image_prompt": "Cinematic shot, young girl with messy hair wearing a simple hoodie, standing before a retro vintage arcade machine glowing with neon light in a dark, misty forest, mossy gnarled tree roots, volumetric lighting, hyper-realistic, dark fantasy atmosphere.",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Forbidden Discovery",
+      "narration": "Maya, a young girl with a curious expression, stands alone in a dense, misty forest. She discovers an ancient, glowing arcade machine embedded into the roots of a colossal, gnarled tree.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "The Digital Trap",
+      "scene_description": "As Maya touches the screen, a massive 'GAME START!' text flashes in red neon. The forest behind her transforms into digital pixelated gates that slam shut, trapping her in a glowing, glitchy dimension.",
+      "image_prompt": "Action shot, Maya reaching out to touch an arcade screen, bright red digital text 'GAME START!' exploding from the screen, surrounding forest trees turning into digital pixelated data blocks, cinematic lighting, high contrast, suspenseful atmosphere.",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "The Digital Trap",
+      "narration": "As Maya touches the screen, a massive 'GAME START!' text flashes in red neon. The forest behind her transforms into digital pixelated gates that slam shut, trapping her in a glowing, glitchy dimension.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "Level 1: The Shadow Chase",
+      "scene_description": "Maya sprints through the dark forest floor, her face filled with terror. A towering, amorphous shadow creature with glowing eyes looms right behind her, forcing her to leap over jagged, glowing roots.",
+      "image_prompt": "Dynamic motion blur, Maya running through a dark forest, a terrifying dark shadow monster with glowing red eyes chasing her, bioluminescent plants on the ground, cinematic action camera angle, intense suspense.",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "Level 1: The Shadow Chase",
+      "narration": "Maya sprints through the dark forest floor, her face filled with terror. A towering, amorphous shadow creature with glowing eyes looms right behind her, forcing her to leap over jagged, glowing roots.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "Level 2: The Logic Puzzle",
+      "scene_description": "Inside a dilapidated, Victorian-style abandoned house, Maya stands before a complex wall of glowing puzzle switches. She looks focused and determined, her hands moving to align the final pieces.",
+      "image_prompt": "Interior shot, abandoned house with peeling wallpaper, Maya solving a glowing mechanical wall puzzle, dust motes dancing in light beams, serious expression, cinematic lighting, detailed textures, mystery vibe.",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "Level 2: The Logic Puzzle",
+      "narration": "Inside a dilapidated, Victorian-style abandoned house, Maya stands before a complex wall of glowing puzzle switches. She looks focused and determined, her hands moving to align the final pieces.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "The Final Reward",
+      "scene_description": "Having chosen the 'WIN' card, the forest gate vanishes. Maya stands in a clearing under the morning sun, surrounded by piles of gold coins and treasure chests that appeared as her prize.",
+      "image_prompt": "Wide angle cinematic shot, morning sunlight breaking through forest canopy, Maya standing triumphant in a clearing, piles of gold coins and sparkling jewels scattered around her, soft cinematic lighting, dreamlike resolution.",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "The Final Reward",
+      "narration": "Having chosen the 'WIN' card, the forest gate vanishes. Maya stands in a clearing under the morning sun, surrounded by piles of gold coins and treasure chests that appeared as her prize.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

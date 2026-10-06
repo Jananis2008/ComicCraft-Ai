@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>
+        {{ app_name }} - Comic Preview
+    </title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', path='css/style.css') }}"
+    >
+
+</head>
+
+
+<body>
+
+<div class="container">
+
+    <header class="hero">
+
+        <h1>
+            🎨 Your Comic
+        </h1>
+
+        <p>
+            Your five-panel comic has been generated.
+        </p>
+
+    </header>
+
+
+    <div class="actions">
+
+        <a
+            href="/export/{{ job_id }}"
+            class="download-btn"
+        >
+            📄 Export PDF
+        </a>
+
+        <a
+            href="/"
+            class="back-btn"
+        >
+            ← Create Another Comic
+        </a>
+
+    </div>
+
+
+    <section class="comic-grid">
+
+        {% for panel in comic %}
+
+        <article class="comic-card">
+
+            <div class="panel-number">
+                Panel {{ panel.panel_number }}
+            </div>
+
+
+            <h2>
+                {{ panel.title }}
+            </h2>
+
+
+            <img
+                src="{{ panel.image_path }}"
+                alt="{{ panel.title }}"
+                class="comic-image"
+            >
+
+
+            <div class="comic-text">
+
+                <h3>
+                    Caption
+                </h3>
+
+                <p>
+                    {{ panel.caption }}
+                </p>
+
+
+                <h3>
+                    Narration
+                </h3>
+
+                <p>
+                    {{ panel.narration }}
+                </p>
+
+
+                <h3>
+                    Dialogue
+                </h3>
+
+                <div class="dialogue">
+                    "{{ panel.dialogue }}"
+                </div>
+
+            </div>
+
+        </article>
+
+        {% endfor %}
+
+    </section>
+
+
+    <footer>
+
+        <p>
+            ComicCraft AI &copy; 2026
+        </p>
+
+    </footer>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,135 @@
+{
+  "request": {
+    "story_prompt": "A young girl named Emma discovers an old time machine in an abandoned laboratory. She accidentally travels 100 years into the future and finds a city in danger. Emma must solve a mysterious puzzle, save the city, and return home before the time machine disappears forever.",
+    "character_name": "Alex",
+    "setting": "enchanted forest",
+    "tone": "adventurous",
+    "art_style": "comic book",
+    "panel_count": 5
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Hidden Relic",
+        "scene_description": "Alex, a young girl with messy hair and goggles, discovers an ornate, glowing time machine hidden within the hollow of a massive, ancient tree in an enchanted forest.",
+        "image_prompt": "Comic book art style, vibrant enchanted forest with glowing flora, a young girl named Alex with goggles and a backpack touching a metallic, steampunk-style time machine embedded in a tree, cinematic lighting, dynamic composition."
+      },
+      {
+        "panel_number": 2,
+        "title": "Leap Through Time",
+        "scene_description": "The machine activates with a flash of light, pulling Alex forward through a swirling vortex of neon colors and temporal energy.",
+        "image_prompt": "Comic book art style, Alex inside a swirling vortex of time, motion blur, bright neon blues and purples, expression of shock and wonder, dramatic perspective."
+      },
+      {
+        "panel_number": 3,
+        "title": "The Endangered Future",
+        "scene_description": "Alex arrives in a futuristic city 100 years ahead, where floating structures are crumbling under a dark, encroaching shadow.",
+        "image_prompt": "Comic book art style, a breathtaking futuristic city with floating buildings and hover-cars, a dark purple void consuming the skyline, Alex looking up in awe and concern, high contrast, detailed environment."
+      },
+      {
+        "panel_number": 4,
+        "title": "The Puzzle of Light",
+        "scene_description": "Alex stands before a giant crystalline terminal, holding a glowing artifact from the forest, solving the puzzle to dissipate the shadow.",
+        "image_prompt": "Comic book art style, close-up of Alex interacting with a glowing holographic puzzle, intense focus, rays of light emitting from the terminal, stylized comic shading, action-oriented."
+      },
+      {
+        "panel_number": 5,
+        "title": "A Hero's Return",
+        "scene_description": "As the city is saved, the time machine begins to fade into static; Alex leaps back into the portal, barely making it home just as the machine vanishes.",
+        "image_prompt": "Comic book art style, the futuristic city restored to beauty, Alex leaping into a shimmering portal, the time machine dissolving into pixels and light, dramatic farewell, sense of urgency, bold colors."
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Hidden Relic",
+        "caption": "The Hidden Relic",
+        "narration": "Alex, a young girl with messy hair and goggles, discovers an ornate, glowing time machine hidden within the hollow of a massive, ancient tree in an enchanted forest.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "Leap Through Time",
+        "caption": "Leap Through Time",
+        "narration": "The machine activates with a flash of light, pulling Alex forward through a swirling vortex of neon colors and temporal energy.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "The Endangered Future",
+        "caption": "The Endangered Future",
+        "narration": "Alex arrives in a futuristic city 100 years ahead, where floating structures are crumbling under a dark, encroaching shadow.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "The Puzzle of Light",
+        "caption": "The Puzzle of Light",
+        "narration": "Alex stands before a giant crystalline terminal, holding a glowing artifact from the forest, solving the puzzle to dissipate the shadow.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "A Hero's Return",
+        "caption": "A Hero's Return",
+        "narration": "As the city is saved, the time machine begins to fade into static; Alex leaps back into the portal, barely making it home just as the machine vanishes.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Hidden Relic",
+      "scene_description": "Alex, a young girl with messy hair and goggles, discovers an ornate, glowing time machine hidden within the hollow of a massive, ancient tree in an enchanted forest.",
+      "image_prompt": "Comic book art style, vibrant enchanted forest with glowing flora, a young girl named Alex with goggles and a backpack touching a metallic, steampunk-style time machine embedded in a tree, cinematic lighting, dynamic composition.",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Hidden Relic",
+      "narration": "Alex, a young girl with messy hair and goggles, discovers an ornate, glowing time machine hidden within the hollow of a massive, ancient tree in an enchanted forest.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "Leap Through Time",
+      "scene_description": "The machine activates with a flash of light, pulling Alex forward through a swirling vortex of neon colors and temporal energy.",
+      "image_prompt": "Comic book art style, Alex inside a swirling vortex of time, motion blur, bright neon blues and purples, expression of shock and wonder, dramatic perspective.",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "Leap Through Time",
+      "narration": "The machine activates with a flash of light, pulling Alex forward through a swirling vortex of neon colors and temporal energy.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "The Endangered Future",
+      "scene_description": "Alex arrives in a futuristic city 100 years ahead, where floating structures are crumbling under a dark, encroaching shadow.",
+      "image_prompt": "Comic book art style, a breathtaking futuristic city with floating buildings and hover-cars, a dark purple void consuming the skyline, Alex looking up in awe and concern, high contrast, detailed environment.",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "The Endangered Future",
+      "narration": "Alex arrives in a futuristic city 100 years ahead, where floating structures are crumbling under a dark, encroaching shadow.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "The Puzzle of Light",
+      "scene_description": "Alex stands before a giant crystalline terminal, holding a glowing artifact from the forest, solving the puzzle to dissipate the shadow.",
+      "image_prompt": "Comic book art style, close-up of Alex interacting with a glowing holographic puzzle, intense focus, rays of light emitting from the terminal, stylized comic shading, action-oriented.",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "The Puzzle of Light",
+      "narration": "Alex stands before a giant crystalline terminal, holding a glowing artifact from the forest, solving the puzzle to dissipate the shadow.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "A Hero's Return",
+      "scene_description": "As the city is saved, the time machine begins to fade into static; Alex leaps back into the portal, barely making it home just as the machine vanishes.",
+      "image_prompt": "Comic book art style, the futuristic city restored to beauty, Alex leaping into a shimmering portal, the time machine dissolving into pixels and light, dramatic farewell, sense of urgency, bold colors.",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "A Hero's Return",
+      "narration": "As the city is saved, the time machine begins to fade into static; Alex leaps back into the portal, barely making it home just as the machine vanishes.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

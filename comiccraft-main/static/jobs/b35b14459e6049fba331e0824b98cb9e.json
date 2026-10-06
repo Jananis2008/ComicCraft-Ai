@@ -1,0 +1,134 @@
+{
+  "request": {
+    "story_prompt": "A young girl named Emma discovers an old time machine in an abandoned laboratory. She accidentally travels 100 years into the future and finds a city in danger. Emma must solve a mysterious puzzle, save the city, and return home before the time machine disappears forever.",
+    "character_name": "Emma",
+    "setting": "Abandoned laboratory and futuristic city",
+    "tone": "Mysterious, adventurous, and exciting",
+    "art_style": "Cinematic sci-fi comic book"
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Beginning",
+        "scene_description": "Emma enters the Abandoned laboratory and futuristic city.",
+        "image_prompt": "Emma entering a Abandoned laboratory and futuristic city, Cinematic sci-fi comic book, cinematic comic panel"
+      },
+      {
+        "panel_number": 2,
+        "title": "The Discovery",
+        "scene_description": "Emma discovers something mysterious.",
+        "image_prompt": "Emma discovering a mysterious glowing object in the Abandoned laboratory and futuristic city, Cinematic sci-fi comic book"
+      },
+      {
+        "panel_number": 3,
+        "title": "The Challenge",
+        "scene_description": "A difficult challenge suddenly appears.",
+        "image_prompt": "Emma facing a dramatic challenge in the Abandoned laboratory and futuristic city, Cinematic sci-fi comic book"
+      },
+      {
+        "panel_number": 4,
+        "title": "The Solution",
+        "scene_description": "Emma finds a creative solution.",
+        "image_prompt": "Emma solving the challenge using courage and creativity, Cinematic sci-fi comic book"
+      },
+      {
+        "panel_number": 5,
+        "title": "The Ending",
+        "scene_description": "Emma completes the adventure successfully.",
+        "image_prompt": "Emma celebrating in the Abandoned laboratory and futuristic city, happy ending, Cinematic sci-fi comic book"
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Beginning",
+        "caption": "The Beginning",
+        "narration": "Emma enters the Abandoned laboratory and futuristic city.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "The Discovery",
+        "caption": "The Discovery",
+        "narration": "Emma discovers something mysterious.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "The Challenge",
+        "caption": "The Challenge",
+        "narration": "A difficult challenge suddenly appears.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "The Solution",
+        "caption": "The Solution",
+        "narration": "Emma finds a creative solution.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "The Ending",
+        "caption": "The Ending",
+        "narration": "Emma completes the adventure successfully.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Beginning",
+      "scene_description": "Emma enters the Abandoned laboratory and futuristic city.",
+      "image_prompt": "Emma entering a Abandoned laboratory and futuristic city, Cinematic sci-fi comic book, cinematic comic panel",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Beginning",
+      "narration": "Emma enters the Abandoned laboratory and futuristic city.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "The Discovery",
+      "scene_description": "Emma discovers something mysterious.",
+      "image_prompt": "Emma discovering a mysterious glowing object in the Abandoned laboratory and futuristic city, Cinematic sci-fi comic book",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "The Discovery",
+      "narration": "Emma discovers something mysterious.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "The Challenge",
+      "scene_description": "A difficult challenge suddenly appears.",
+      "image_prompt": "Emma facing a dramatic challenge in the Abandoned laboratory and futuristic city, Cinematic sci-fi comic book",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "The Challenge",
+      "narration": "A difficult challenge suddenly appears.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "The Solution",
+      "scene_description": "Emma finds a creative solution.",
+      "image_prompt": "Emma solving the challenge using courage and creativity, Cinematic sci-fi comic book",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "The Solution",
+      "narration": "Emma finds a creative solution.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "The Ending",
+      "scene_description": "Emma completes the adventure successfully.",
+      "image_prompt": "Emma celebrating in the Abandoned laboratory and futuristic city, happy ending, Cinematic sci-fi comic book",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "The Ending",
+      "narration": "Emma completes the adventure successfully.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

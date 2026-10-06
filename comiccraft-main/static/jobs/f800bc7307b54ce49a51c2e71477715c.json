@@ -1,0 +1,134 @@
+{
+  "request": {
+    "story_prompt": "A young girl named Emma discovers an old time machine in an abandoned laboratory. She accidentally travels 100 years into the future and finds a city in danger. Emma must solve a mysterious puzzle, save the city, and return home before the time machine disappears forever.",
+    "character_name": "Alex",
+    "setting": "enchanted forest",
+    "tone": "adventurous",
+    "art_style": "comic book"
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Discovery",
+        "scene_description": "Alex, a young girl with messy hair and a worn backpack, pushes through dense vines in an enchanted forest to find a glowing, steampunk-style time machine half-buried in moss.",
+        "image_prompt": "Comic book style, vibrant colors, Alex with brown hair and a green utility vest standing in a lush magical forest, glowing brass time machine partially covered in ivy, cinematic lighting."
+      },
+      {
+        "panel_number": 2,
+        "title": "The Leap Forward",
+        "scene_description": "Alex accidentally triggers a lever inside the machine, causing a swirl of neon light to envelop her, transporting her instantly to a futuristic, crumbling city with flying structures.",
+        "image_prompt": "Action shot, Alex inside the time machine cockpit, swirling vortex of blue and purple energy, background transitioning from forest to a dystopian futuristic city, dynamic perspective."
+      },
+      {
+        "panel_number": 3,
+        "title": "The City in Peril",
+        "scene_description": "Alex stands on a high ledge overlooking a city where gravity-defying towers are flickering and collapsing. She spots a glowing, complex puzzle mechanism on a nearby pedestal.",
+        "image_prompt": "Wide shot, Alex looking at a futuristic city landscape with floating buildings, a glowing holographic puzzle pedestal in the foreground, comic book ink lines, atmospheric haze."
+      },
+      {
+        "panel_number": 4,
+        "title": "Solving the Mystery",
+        "scene_description": "Alex intensely focuses on the puzzle, rotating crystalline nodes to align them. As she completes the pattern, a surge of golden light stabilizes the city structures.",
+        "image_prompt": "Close up of Alex's face showing determination, hands moving glowing crystalline shapes on a tech interface, golden light radiating from the puzzle, dramatic shadows."
+      },
+      {
+        "panel_number": 5,
+        "title": "The Return",
+        "scene_description": "The time machine begins to fade away. Alex leaps back into the pilot seat just as the machine vanishes, returning her to the serene enchanted forest, leaving only a faint shimmer behind.",
+        "image_prompt": "Comic book panel, Alex sitting in the fading time machine, forest environment returning to focus, magical sparkles, sense of relief on Alex's face, high contrast colors."
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Discovery",
+        "caption": "The Discovery",
+        "narration": "Alex, a young girl with messy hair and a worn backpack, pushes through dense vines in an enchanted forest to find a glowing, steampunk-style time machine half-buried in moss.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "The Leap Forward",
+        "caption": "The Leap Forward",
+        "narration": "Alex accidentally triggers a lever inside the machine, causing a swirl of neon light to envelop her, transporting her instantly to a futuristic, crumbling city with flying structures.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "The City in Peril",
+        "caption": "The City in Peril",
+        "narration": "Alex stands on a high ledge overlooking a city where gravity-defying towers are flickering and collapsing. She spots a glowing, complex puzzle mechanism on a nearby pedestal.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "Solving the Mystery",
+        "caption": "Solving the Mystery",
+        "narration": "Alex intensely focuses on the puzzle, rotating crystalline nodes to align them. As she completes the pattern, a surge of golden light stabilizes the city structures.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "The Return",
+        "caption": "The Return",
+        "narration": "The time machine begins to fade away. Alex leaps back into the pilot seat just as the machine vanishes, returning her to the serene enchanted forest, leaving only a faint shimmer behind.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Discovery",
+      "scene_description": "Alex, a young girl with messy hair and a worn backpack, pushes through dense vines in an enchanted forest to find a glowing, steampunk-style time machine half-buried in moss.",
+      "image_prompt": "Comic book style, vibrant colors, Alex with brown hair and a green utility vest standing in a lush magical forest, glowing brass time machine partially covered in ivy, cinematic lighting.",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Discovery",
+      "narration": "Alex, a young girl with messy hair and a worn backpack, pushes through dense vines in an enchanted forest to find a glowing, steampunk-style time machine half-buried in moss.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "The Leap Forward",
+      "scene_description": "Alex accidentally triggers a lever inside the machine, causing a swirl of neon light to envelop her, transporting her instantly to a futuristic, crumbling city with flying structures.",
+      "image_prompt": "Action shot, Alex inside the time machine cockpit, swirling vortex of blue and purple energy, background transitioning from forest to a dystopian futuristic city, dynamic perspective.",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "The Leap Forward",
+      "narration": "Alex accidentally triggers a lever inside the machine, causing a swirl of neon light to envelop her, transporting her instantly to a futuristic, crumbling city with flying structures.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "The City in Peril",
+      "scene_description": "Alex stands on a high ledge overlooking a city where gravity-defying towers are flickering and collapsing. She spots a glowing, complex puzzle mechanism on a nearby pedestal.",
+      "image_prompt": "Wide shot, Alex looking at a futuristic city landscape with floating buildings, a glowing holographic puzzle pedestal in the foreground, comic book ink lines, atmospheric haze.",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "The City in Peril",
+      "narration": "Alex stands on a high ledge overlooking a city where gravity-defying towers are flickering and collapsing. She spots a glowing, complex puzzle mechanism on a nearby pedestal.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "Solving the Mystery",
+      "scene_description": "Alex intensely focuses on the puzzle, rotating crystalline nodes to align them. As she completes the pattern, a surge of golden light stabilizes the city structures.",
+      "image_prompt": "Close up of Alex's face showing determination, hands moving glowing crystalline shapes on a tech interface, golden light radiating from the puzzle, dramatic shadows.",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "Solving the Mystery",
+      "narration": "Alex intensely focuses on the puzzle, rotating crystalline nodes to align them. As she completes the pattern, a surge of golden light stabilizes the city structures.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "The Return",
+      "scene_description": "The time machine begins to fade away. Alex leaps back into the pilot seat just as the machine vanishes, returning her to the serene enchanted forest, leaving only a faint shimmer behind.",
+      "image_prompt": "Comic book panel, Alex sitting in the fading time machine, forest environment returning to focus, magical sparkles, sense of relief on Alex's face, high contrast colors.",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "The Return",
+      "narration": "The time machine begins to fade away. Alex leaps back into the pilot seat just as the machine vanishes, returning her to the serene enchanted forest, leaving only a faint shimmer behind.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

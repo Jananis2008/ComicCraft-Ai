@@ -1,0 +1,135 @@
+{
+  "request": {
+    "story_prompt": "Maya is a young girl who enters a mysterious forest alone. Deep inside the forest, she discovers an old Game Machine near a huge tree.\r\nCurious, Maya touches the machine.\r\nSuddenly—\r\n“GAME START!” 🎮\r\nThe forest gates close, and Maya becomes trapped inside the game.\r\n🔴 Level 1 – Forest Run\r\nMaya must run through the dark forest while a terrifying shadow chases her. She avoids dangerous obstacles and successfully completes Level 1.\r\n🟠 Level 2 – Mystery House\r\nMaya enters an abandoned house filled with mysterious puzzles. She must solve the puzzles and find the correct exit before the game resets.\r\nUsing her intelligence, Maya completes Level 2.\r\n🟢 Level 3 – Final Choice\r\nMaya reaches the final room. On a table, she finds two cards:\r\n1️⃣ LOSE\r\n2️⃣ WIN\r\nA mysterious voice says:\r\n“Choose only one card…”\r\nMaya takes a deep breath and chooses the WIN card.\r\nSuddenly—\r\n💥 GAME COMPLETED! 💥\r\nThe door opens, and Maya escapes from the forest.\r\nOutside, she discovers the game's grand prize: bags of money, gold, and treasure. 💰💎",
+    "character_name": "Alex",
+    "setting": "enchanted forest",
+    "tone": "adventurous",
+    "art_style": "comic book",
+    "panel_count": 5
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Discovery",
+        "scene_description": "Alex, a young girl with messy hair and a backpack, stands before a massive, ancient tree in the enchanted forest. She discovers a glowing, vintage arcade machine embedded in the tree's roots.",
+        "image_prompt": "Comic book style, medium shot of a young girl named Alex with shoulder-length brown hair and a denim jacket, standing in a magical forest with glowing bioluminescent plants, looking at a retro arcade machine built into an ancient oak tree, vibrant colors, dramatic lighting."
+      },
+      {
+        "panel_number": 2,
+        "title": "Game Start",
+        "scene_description": "Alex touches the screen. Bright neon text 'GAME START!' flashes, and magical vines slam shut the forest entrance, trapping her inside a digital-looking barrier.",
+        "image_prompt": "Close up of Alex's hand touching a cracked arcade screen, neon green digital energy ripples out, the background forest is turning into glitchy pixelated vines, intense action, high contrast, comic book art style."
+      },
+      {
+        "panel_number": 3,
+        "title": "Forest Run",
+        "scene_description": "Alex is sprinting through the dark woods, dodging glowing red obstacles while a towering, amorphous shadow creature chases her from behind.",
+        "image_prompt": "Action shot, Alex running fast through a dark enchanted forest, motion blur, a giant terrifying ink-black shadow monster looms behind her, glowing red hazardous roots on the ground, dynamic perspective, comic book style."
+      },
+      {
+        "panel_number": 4,
+        "title": "The Final Choice",
+        "scene_description": "Inside a floating room, Alex stands before a table with two glowing cards. She reaches out with a determined expression to grab the 'WIN' card.",
+        "image_prompt": "Medium shot, Alex in a surreal floating room with checkered floors, two glowing holographic cards floating above a stone pedestal, one says 'LOSE' in red, one says 'WIN' in gold, Alex's hand is reaching for the gold card, intense focus, comic book art."
+      },
+      {
+        "panel_number": 5,
+        "title": "The Grand Prize",
+        "scene_description": "The forest gates burst open. Alex stands outside, safe, surrounded by piles of gold coins and treasure chests that appeared from the game.",
+        "image_prompt": "Wide shot, Alex standing at the edge of the enchanted forest, bright sunlight, massive piles of gold coins, sparkling jewels, and open treasure chests scattered around her, a sense of victory, comic book style, vibrant colors."
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Discovery",
+        "caption": "The Discovery",
+        "narration": "Alex, a young girl with messy hair and a backpack, stands before a massive, ancient tree in the enchanted forest. She discovers a glowing, vintage arcade machine embedded in the tree's roots.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "Game Start",
+        "caption": "Game Start",
+        "narration": "Alex touches the screen. Bright neon text 'GAME START!' flashes, and magical vines slam shut the forest entrance, trapping her inside a digital-looking barrier.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "Forest Run",
+        "caption": "Forest Run",
+        "narration": "Alex is sprinting through the dark woods, dodging glowing red obstacles while a towering, amorphous shadow creature chases her from behind.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "The Final Choice",
+        "caption": "The Final Choice",
+        "narration": "Inside a floating room, Alex stands before a table with two glowing cards. She reaches out with a determined expression to grab the 'WIN' card.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "The Grand Prize",
+        "caption": "The Grand Prize",
+        "narration": "The forest gates burst open. Alex stands outside, safe, surrounded by piles of gold coins and treasure chests that appeared from the game.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Discovery",
+      "scene_description": "Alex, a young girl with messy hair and a backpack, stands before a massive, ancient tree in the enchanted forest. She discovers a glowing, vintage arcade machine embedded in the tree's roots.",
+      "image_prompt": "Comic book style, medium shot of a young girl named Alex with shoulder-length brown hair and a denim jacket, standing in a magical forest with glowing bioluminescent plants, looking at a retro arcade machine built into an ancient oak tree, vibrant colors, dramatic lighting.",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Discovery",
+      "narration": "Alex, a young girl with messy hair and a backpack, stands before a massive, ancient tree in the enchanted forest. She discovers a glowing, vintage arcade machine embedded in the tree's roots.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "Game Start",
+      "scene_description": "Alex touches the screen. Bright neon text 'GAME START!' flashes, and magical vines slam shut the forest entrance, trapping her inside a digital-looking barrier.",
+      "image_prompt": "Close up of Alex's hand touching a cracked arcade screen, neon green digital energy ripples out, the background forest is turning into glitchy pixelated vines, intense action, high contrast, comic book art style.",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "Game Start",
+      "narration": "Alex touches the screen. Bright neon text 'GAME START!' flashes, and magical vines slam shut the forest entrance, trapping her inside a digital-looking barrier.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "Forest Run",
+      "scene_description": "Alex is sprinting through the dark woods, dodging glowing red obstacles while a towering, amorphous shadow creature chases her from behind.",
+      "image_prompt": "Action shot, Alex running fast through a dark enchanted forest, motion blur, a giant terrifying ink-black shadow monster looms behind her, glowing red hazardous roots on the ground, dynamic perspective, comic book style.",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "Forest Run",
+      "narration": "Alex is sprinting through the dark woods, dodging glowing red obstacles while a towering, amorphous shadow creature chases her from behind.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "The Final Choice",
+      "scene_description": "Inside a floating room, Alex stands before a table with two glowing cards. She reaches out with a determined expression to grab the 'WIN' card.",
+      "image_prompt": "Medium shot, Alex in a surreal floating room with checkered floors, two glowing holographic cards floating above a stone pedestal, one says 'LOSE' in red, one says 'WIN' in gold, Alex's hand is reaching for the gold card, intense focus, comic book art.",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "The Final Choice",
+      "narration": "Inside a floating room, Alex stands before a table with two glowing cards. She reaches out with a determined expression to grab the 'WIN' card.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "The Grand Prize",
+      "scene_description": "The forest gates burst open. Alex stands outside, safe, surrounded by piles of gold coins and treasure chests that appeared from the game.",
+      "image_prompt": "Wide shot, Alex standing at the edge of the enchanted forest, bright sunlight, massive piles of gold coins, sparkling jewels, and open treasure chests scattered around her, a sense of victory, comic book style, vibrant colors.",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "The Grand Prize",
+      "narration": "The forest gates burst open. Alex stands outside, safe, surrounded by piles of gold coins and treasure chests that appeared from the game.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

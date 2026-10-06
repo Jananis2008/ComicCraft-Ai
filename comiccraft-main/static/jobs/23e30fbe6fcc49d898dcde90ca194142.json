@@ -1,0 +1,134 @@
+{
+  "request": {
+    "story_prompt": "Maya is a young girl who enters a mysterious forest alone. Deep inside the forest, she discovers an old Game Machine near a huge tree.\r\nCurious, Maya touches the machine.\r\nSuddenly—\r\n“GAME START!” 🎮\r\nThe forest gates close, and Maya becomes trapped inside the game.\r\n🔴 Level 1 – Forest Run\r\nMaya must run through the dark forest while a terrifying shadow chases her. She avoids dangerous obstacles and successfully completes Level 1.\r\n🟠 Level 2 – Mystery House\r\nMaya enters an abandoned house filled with mysterious puzzles. She must solve the puzzles and find the correct exit before the game resets.\r\nUsing her intelligence, Maya completes Level 2.\r\n🟢 Level 3 – Final Choice\r\nMaya reaches the final room. On a table, she finds two cards:\r\n1️⃣ LOSE\r\n2️⃣ WIN\r\nA mysterious voice says:\r\n“Choose only one card…”\r\nMaya takes a deep breath and chooses the WIN card.\r\nSuddenly—\r\n💥 GAME COMPLETED! 💥\r\nThe door opens, and Maya escapes from the forest.\r\nOutside, she discovers the game's grand prize: bags of money, gold, and treasure. 💰💎",
+    "character_name": "Alex",
+    "setting": "enchanted forest",
+    "tone": "adventurous",
+    "art_style": "comic book"
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Discovery",
+        "scene_description": "Alex, a young adventurer with a backpack, stands before a massive, ancient tree in the middle of a glowing, enchanted forest. He reaches out to touch a dusty, vintage arcade game machine embedded in the tree's roots.",
+        "image_prompt": "Comic book style, a young boy named Alex with messy brown hair and a green adventurer's vest standing in a lush, magical forest with glowing plants, looking at a retro arcade machine built into the bark of a giant tree, vibrant colors, dynamic perspective."
+      },
+      {
+        "panel_number": 2,
+        "title": "Level 1: The Shadow Chase",
+        "scene_description": "Alex sprints through a dark, foggy section of the forest. Behind him, a giant, amorphous shadow monster with glowing red eyes looms, forcing him to jump over gnarled roots and fallen logs.",
+        "image_prompt": "Comic book art, high-action shot of Alex running away from a towering, dark, smoky shadow creature, the forest floor is treacherous with twisted roots, intense motion blur, dramatic shadows, action-packed panel."
+      },
+      {
+        "panel_number": 3,
+        "title": "Level 2: The Mystery House",
+        "scene_description": "Alex stands inside a dilapidated, eerie house. He is focused on a complex stone puzzle on the wall, his hand hovering over a glowing rune, with the exit door just inches away.",
+        "image_prompt": "Comic book style, interior of a creepy abandoned house, Alex looking thoughtful and focused while solving a glowing magical puzzle on a wall, dusty atmosphere, shafts of light coming through cracks in the walls, detailed textures."
+      },
+      {
+        "panel_number": 4,
+        "title": "Level 3: The Final Choice",
+        "scene_description": "Alex stands in a sterile, white-lit room. On a wooden table before him lie two cards: one labeled 'LOSE' and one labeled 'WIN'. He is reaching out with a steady hand to pick the 'WIN' card.",
+        "image_prompt": "Comic book close-up, Alex's hand reaching for a card that says 'WIN' in bold letters, another card on the table says 'LOSE', intense lighting, the room is minimalist and mysterious, focused expression on Alex's face."
+      },
+      {
+        "panel_number": 5,
+        "title": "Victory and Reward",
+        "scene_description": "The forest gate bursts open. Alex emerges back into the sunlight, standing before a massive pile of gold coins, shimmering jewels, and treasure chests, looking triumphant.",
+        "image_prompt": "Comic book art, triumphant scene, Alex standing outside the forest gate, piles of sparkling gold and treasure surrounding him, bright sunshine, celebratory atmosphere, vibrant colors, clear sky."
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Discovery",
+        "caption": "The Discovery",
+        "narration": "Alex, a young adventurer with a backpack, stands before a massive, ancient tree in the middle of a glowing, enchanted forest. He reaches out to touch a dusty, vintage arcade game machine embedded in the tree's roots.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "Level 1: The Shadow Chase",
+        "caption": "Level 1: The Shadow Chase",
+        "narration": "Alex sprints through a dark, foggy section of the forest. Behind him, a giant, amorphous shadow monster with glowing red eyes looms, forcing him to jump over gnarled roots and fallen logs.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "Level 2: The Mystery House",
+        "caption": "Level 2: The Mystery House",
+        "narration": "Alex stands inside a dilapidated, eerie house. He is focused on a complex stone puzzle on the wall, his hand hovering over a glowing rune, with the exit door just inches away.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "Level 3: The Final Choice",
+        "caption": "Level 3: The Final Choice",
+        "narration": "Alex stands in a sterile, white-lit room. On a wooden table before him lie two cards: one labeled 'LOSE' and one labeled 'WIN'. He is reaching out with a steady hand to pick the 'WIN' card.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "Victory and Reward",
+        "caption": "Victory and Reward",
+        "narration": "The forest gate bursts open. Alex emerges back into the sunlight, standing before a massive pile of gold coins, shimmering jewels, and treasure chests, looking triumphant.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Discovery",
+      "scene_description": "Alex, a young adventurer with a backpack, stands before a massive, ancient tree in the middle of a glowing, enchanted forest. He reaches out to touch a dusty, vintage arcade game machine embedded in the tree's roots.",
+      "image_prompt": "Comic book style, a young boy named Alex with messy brown hair and a green adventurer's vest standing in a lush, magical forest with glowing plants, looking at a retro arcade machine built into the bark of a giant tree, vibrant colors, dynamic perspective.",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Discovery",
+      "narration": "Alex, a young adventurer with a backpack, stands before a massive, ancient tree in the middle of a glowing, enchanted forest. He reaches out to touch a dusty, vintage arcade game machine embedded in the tree's roots.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "Level 1: The Shadow Chase",
+      "scene_description": "Alex sprints through a dark, foggy section of the forest. Behind him, a giant, amorphous shadow monster with glowing red eyes looms, forcing him to jump over gnarled roots and fallen logs.",
+      "image_prompt": "Comic book art, high-action shot of Alex running away from a towering, dark, smoky shadow creature, the forest floor is treacherous with twisted roots, intense motion blur, dramatic shadows, action-packed panel.",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "Level 1: The Shadow Chase",
+      "narration": "Alex sprints through a dark, foggy section of the forest. Behind him, a giant, amorphous shadow monster with glowing red eyes looms, forcing him to jump over gnarled roots and fallen logs.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "Level 2: The Mystery House",
+      "scene_description": "Alex stands inside a dilapidated, eerie house. He is focused on a complex stone puzzle on the wall, his hand hovering over a glowing rune, with the exit door just inches away.",
+      "image_prompt": "Comic book style, interior of a creepy abandoned house, Alex looking thoughtful and focused while solving a glowing magical puzzle on a wall, dusty atmosphere, shafts of light coming through cracks in the walls, detailed textures.",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "Level 2: The Mystery House",
+      "narration": "Alex stands inside a dilapidated, eerie house. He is focused on a complex stone puzzle on the wall, his hand hovering over a glowing rune, with the exit door just inches away.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "Level 3: The Final Choice",
+      "scene_description": "Alex stands in a sterile, white-lit room. On a wooden table before him lie two cards: one labeled 'LOSE' and one labeled 'WIN'. He is reaching out with a steady hand to pick the 'WIN' card.",
+      "image_prompt": "Comic book close-up, Alex's hand reaching for a card that says 'WIN' in bold letters, another card on the table says 'LOSE', intense lighting, the room is minimalist and mysterious, focused expression on Alex's face.",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "Level 3: The Final Choice",
+      "narration": "Alex stands in a sterile, white-lit room. On a wooden table before him lie two cards: one labeled 'LOSE' and one labeled 'WIN'. He is reaching out with a steady hand to pick the 'WIN' card.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "Victory and Reward",
+      "scene_description": "The forest gate bursts open. Alex emerges back into the sunlight, standing before a massive pile of gold coins, shimmering jewels, and treasure chests, looking triumphant.",
+      "image_prompt": "Comic book art, triumphant scene, Alex standing outside the forest gate, piles of sparkling gold and treasure surrounding him, bright sunshine, celebratory atmosphere, vibrant colors, clear sky.",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "Victory and Reward",
+      "narration": "The forest gate bursts open. Alex emerges back into the sunlight, standing before a massive pile of gold coins, shimmering jewels, and treasure chests, looking triumphant.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

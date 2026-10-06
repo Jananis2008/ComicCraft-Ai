@@ -1,0 +1,134 @@
+{
+  "request": {
+    "story_prompt": "Maya is a young girl who enters a mysterious forest alone. Deep inside the forest, she discovers an old Game Machine near a huge tree.\r\nCurious, Maya touches the machine.\r\nSuddenly—\r\n“GAME START!” 🎮\r\nThe forest gates close, and Maya becomes trapped inside the game.\r\n🔴 Level 1 – Forest Run\r\nMaya must run through the dark forest while a terrifying shadow chases her. She avoids dangerous obstacles and successfully completes Level 1.\r\n🟠 Level 2 – Mystery House\r\nMaya enters an abandoned house filled with mysterious puzzles. She must solve the puzzles and find the correct exit before the game resets.\r\nUsing her intelligence, Maya completes Level 2.\r\n🟢 Level 3 – Final Choice\r\nMaya reaches the final room. On a table, she finds two cards:\r\n1️⃣ LOSE\r\n2️⃣ WIN\r\nA mysterious voice says:\r\n“Choose only one card…”\r\nMaya takes a deep breath and chooses the WIN card.\r\nSuddenly—\r\n💥 GAME COMPLETED! 💥\r\nThe door opens, and Maya escapes from the forest.\r\nOutside, she discovers the game's grand prize: bags of money, gold, and treasure. 💰💎",
+    "character_name": "Maya",
+    "setting": "enchanted forest",
+    "tone": "adventurous",
+    "art_style": "comic book"
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Mysterious Discovery",
+        "scene_description": "Maya, a young girl with a backpack, stands before a massive, ancient tree in the heart of an enchanted forest. She reaches out to touch a glowing, retro-style arcade machine embedded in the tree's roots.",
+        "image_prompt": "Comic book art style, a young girl named Maya with brown hair and a green jacket exploring a lush dark enchanted forest, she is touching a glowing vintage arcade machine placed against a massive twisted oak tree, magical atmosphere, vibrant colors, dynamic lighting."
+      },
+      {
+        "panel_number": 2,
+        "title": "Trapped in the Game",
+        "scene_description": "The arcade screen flashes bright red with the text 'GAME START!' and thick, thorny vines slam shut behind Maya, sealing the forest entrance as the world around her glitches into pixelated blocks.",
+        "image_prompt": "Comic book style, action shot, Maya looking startled as the entrance to the forest is blocked by giant magical vines, the air is filled with digital glitch effects and floating 'GAME START' text, intense perspective, high contrast."
+      },
+      {
+        "panel_number": 3,
+        "title": "Level 1: The Shadow Chase",
+        "scene_description": "Maya sprints through a dark, foggy forest path, looking back in terror as a towering, amorphous shadow creature with glowing eyes pursues her, while digital obstacles appear in her path.",
+        "image_prompt": "Comic book action panel, Maya running fast through a dark forest, a terrifying dark shadow monster with glowing eyes looming behind her, pixelated obstacles like floating rocks in the air, motion blur, fast-paced composition."
+      },
+      {
+        "panel_number": 4,
+        "title": "Level 2: The Mystery House",
+        "scene_description": "Maya stands inside a dusty, abandoned Victorian room. She is carefully placing a glowing geometric piece into a puzzle mechanism on the wall as the floor begins to shake, indicating time is running out.",
+        "image_prompt": "Comic book art style, interior of a creepy abandoned house, Maya solving a complex glowing wall puzzle, dust motes dancing in the light, sense of urgency, detailed background, sharp lines."
+      },
+      {
+        "panel_number": 5,
+        "title": "Victory and Fortune",
+        "scene_description": "Maya stands outside the forest edge, holding a golden 'WIN' card. Behind her, the forest is peaceful again, and she stands before a massive pile of treasure, gold coins, and jewels.",
+        "image_prompt": "Comic book style, wide shot, Maya standing triumphantly at the edge of the forest, she is holding a glowing card that says 'WIN', in front of her is a massive overflowing pile of gold coins and treasure chests, bright daylight, cinematic ending."
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Mysterious Discovery",
+        "caption": "The Mysterious Discovery",
+        "narration": "Maya, a young girl with a backpack, stands before a massive, ancient tree in the heart of an enchanted forest. She reaches out to touch a glowing, retro-style arcade machine embedded in the tree's roots.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "Trapped in the Game",
+        "caption": "Trapped in the Game",
+        "narration": "The arcade screen flashes bright red with the text 'GAME START!' and thick, thorny vines slam shut behind Maya, sealing the forest entrance as the world around her glitches into pixelated blocks.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "Level 1: The Shadow Chase",
+        "caption": "Level 1: The Shadow Chase",
+        "narration": "Maya sprints through a dark, foggy forest path, looking back in terror as a towering, amorphous shadow creature with glowing eyes pursues her, while digital obstacles appear in her path.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "Level 2: The Mystery House",
+        "caption": "Level 2: The Mystery House",
+        "narration": "Maya stands inside a dusty, abandoned Victorian room. She is carefully placing a glowing geometric piece into a puzzle mechanism on the wall as the floor begins to shake, indicating time is running out.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "Victory and Fortune",
+        "caption": "Victory and Fortune",
+        "narration": "Maya stands outside the forest edge, holding a golden 'WIN' card. Behind her, the forest is peaceful again, and she stands before a massive pile of treasure, gold coins, and jewels.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Mysterious Discovery",
+      "scene_description": "Maya, a young girl with a backpack, stands before a massive, ancient tree in the heart of an enchanted forest. She reaches out to touch a glowing, retro-style arcade machine embedded in the tree's roots.",
+      "image_prompt": "Comic book art style, a young girl named Maya with brown hair and a green jacket exploring a lush dark enchanted forest, she is touching a glowing vintage arcade machine placed against a massive twisted oak tree, magical atmosphere, vibrant colors, dynamic lighting.",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Mysterious Discovery",
+      "narration": "Maya, a young girl with a backpack, stands before a massive, ancient tree in the heart of an enchanted forest. She reaches out to touch a glowing, retro-style arcade machine embedded in the tree's roots.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "Trapped in the Game",
+      "scene_description": "The arcade screen flashes bright red with the text 'GAME START!' and thick, thorny vines slam shut behind Maya, sealing the forest entrance as the world around her glitches into pixelated blocks.",
+      "image_prompt": "Comic book style, action shot, Maya looking startled as the entrance to the forest is blocked by giant magical vines, the air is filled with digital glitch effects and floating 'GAME START' text, intense perspective, high contrast.",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "Trapped in the Game",
+      "narration": "The arcade screen flashes bright red with the text 'GAME START!' and thick, thorny vines slam shut behind Maya, sealing the forest entrance as the world around her glitches into pixelated blocks.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "Level 1: The Shadow Chase",
+      "scene_description": "Maya sprints through a dark, foggy forest path, looking back in terror as a towering, amorphous shadow creature with glowing eyes pursues her, while digital obstacles appear in her path.",
+      "image_prompt": "Comic book action panel, Maya running fast through a dark forest, a terrifying dark shadow monster with glowing eyes looming behind her, pixelated obstacles like floating rocks in the air, motion blur, fast-paced composition.",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "Level 1: The Shadow Chase",
+      "narration": "Maya sprints through a dark, foggy forest path, looking back in terror as a towering, amorphous shadow creature with glowing eyes pursues her, while digital obstacles appear in her path.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "Level 2: The Mystery House",
+      "scene_description": "Maya stands inside a dusty, abandoned Victorian room. She is carefully placing a glowing geometric piece into a puzzle mechanism on the wall as the floor begins to shake, indicating time is running out.",
+      "image_prompt": "Comic book art style, interior of a creepy abandoned house, Maya solving a complex glowing wall puzzle, dust motes dancing in the light, sense of urgency, detailed background, sharp lines.",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "Level 2: The Mystery House",
+      "narration": "Maya stands inside a dusty, abandoned Victorian room. She is carefully placing a glowing geometric piece into a puzzle mechanism on the wall as the floor begins to shake, indicating time is running out.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "Victory and Fortune",
+      "scene_description": "Maya stands outside the forest edge, holding a golden 'WIN' card. Behind her, the forest is peaceful again, and she stands before a massive pile of treasure, gold coins, and jewels.",
+      "image_prompt": "Comic book style, wide shot, Maya standing triumphantly at the edge of the forest, she is holding a glowing card that says 'WIN', in front of her is a massive overflowing pile of gold coins and treasure chests, bright daylight, cinematic ending.",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "Victory and Fortune",
+      "narration": "Maya stands outside the forest edge, holding a golden 'WIN' card. Behind her, the forest is peaceful again, and she stands before a massive pile of treasure, gold coins, and jewels.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

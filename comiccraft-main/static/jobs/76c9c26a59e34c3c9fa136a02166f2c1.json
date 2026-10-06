@@ -1,0 +1,134 @@
+{
+  "request": {
+    "story_prompt": "Maya is a young girl who enters a mysterious forest alone. Deep inside the forest, she discovers an old Game Machine near a huge tree.\r\nCurious, Maya touches the machine.\r\nSuddenly—\r\n“GAME START!” 🎮\r\nThe forest gates close, and Maya becomes trapped inside the game.\r\n🔴 Level 1 – Forest Run\r\nMaya must run through the dark forest while a terrifying shadow chases her. She avoids dangerous obstacles and successfully completes Level 1.\r\n🟠 Level 2 – Mystery House\r\nMaya enters an abandoned house filled with mysterious puzzles. She must solve the puzzles and find the correct exit before the game resets.\r\nUsing her intelligence, Maya completes Level 2.\r\n🟢 Level 3 – Final Choice\r\nMaya reaches the final room. On a table, she finds two cards:\r\n1️⃣ LOSE\r\n2️⃣ WIN\r\nA mysterious voice says:\r\n“Choose only one card…”\r\nMaya takes a deep breath and chooses the WIN card.\r\nSuddenly—\r\n💥 GAME COMPLETED! 💥\r\nThe door opens, and Maya escapes from the forest.\r\nOutside, she discovers the game's grand prize: bags of money, gold, and treasure. 💰💎",
+    "character_name": "Maya",
+    "setting": "Forest",
+    "tone": "Suspense",
+    "art_style": "comic book"
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Forbidden Discovery",
+        "scene_description": "Maya stands before an ancient, glowing arcade machine embedded in the roots of a massive, gnarled tree in the heart of a dark forest.",
+        "image_prompt": "Comic book art style, a young girl named Maya with brown hair and a green jacket standing in a dark forest, staring at a vintage glowing arcade machine nestled in tree roots, moody lighting, suspenseful atmosphere, detailed line work."
+      },
+      {
+        "panel_number": 2,
+        "title": "Trapped in the Game",
+        "scene_description": "As Maya touches the screen, a pixelated 'GAME START!' text appears in the air, and heavy iron gates slam shut around the forest clearing.",
+        "image_prompt": "Comic book style, close-up of Maya touching an arcade screen, bright neon text 'GAME START!' floating in the air, heavy iron gate bars crashing down around the forest, vibrant glowing effects against dark forest background."
+      },
+      {
+        "panel_number": 3,
+        "title": "The Shadow Chase",
+        "scene_description": "Maya sprints through the dense, dark woods, looking back in terror as a towering, amorphous shadow monster looms right behind her.",
+        "image_prompt": "Dynamic action shot, Maya running fast through a dark forest, a terrifying dark shadow monster with glowing eyes chasing her, motion blur, dramatic shadows, comic book panel, high intensity."
+      },
+      {
+        "panel_number": 4,
+        "title": "The Final Decision",
+        "scene_description": "Inside a dim room, Maya stands before a table with two cards labeled 'LOSE' and 'WIN', her hand hovering over the 'WIN' card.",
+        "image_prompt": "Suspenseful interior scene, dim lighting, Maya standing at a wooden table, two glowing cards on the table, one says 'LOSE' the other 'WIN', Maya looking determined, cinematic comic book art, detailed facial expression."
+      },
+      {
+        "panel_number": 5,
+        "title": "Victory and Treasure",
+        "scene_description": "The game ends with a burst of light, and Maya emerges from the forest to find piles of gold, jewels, and treasure chests scattered on the grass.",
+        "image_prompt": "Wide shot, Maya standing outside the forest edge, bright sunlight, piles of gold coins and sparkling treasure chests surrounding her, 'GAME COMPLETED!' text in a comic book bubble, joyful yet mysterious atmosphere."
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Forbidden Discovery",
+        "caption": "The Forbidden Discovery",
+        "narration": "Maya stands before an ancient, glowing arcade machine embedded in the roots of a massive, gnarled tree in the heart of a dark forest.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "Trapped in the Game",
+        "caption": "Trapped in the Game",
+        "narration": "As Maya touches the screen, a pixelated 'GAME START!' text appears in the air, and heavy iron gates slam shut around the forest clearing.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "The Shadow Chase",
+        "caption": "The Shadow Chase",
+        "narration": "Maya sprints through the dense, dark woods, looking back in terror as a towering, amorphous shadow monster looms right behind her.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "The Final Decision",
+        "caption": "The Final Decision",
+        "narration": "Inside a dim room, Maya stands before a table with two cards labeled 'LOSE' and 'WIN', her hand hovering over the 'WIN' card.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "Victory and Treasure",
+        "caption": "Victory and Treasure",
+        "narration": "The game ends with a burst of light, and Maya emerges from the forest to find piles of gold, jewels, and treasure chests scattered on the grass.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Forbidden Discovery",
+      "scene_description": "Maya stands before an ancient, glowing arcade machine embedded in the roots of a massive, gnarled tree in the heart of a dark forest.",
+      "image_prompt": "Comic book art style, a young girl named Maya with brown hair and a green jacket standing in a dark forest, staring at a vintage glowing arcade machine nestled in tree roots, moody lighting, suspenseful atmosphere, detailed line work.",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Forbidden Discovery",
+      "narration": "Maya stands before an ancient, glowing arcade machine embedded in the roots of a massive, gnarled tree in the heart of a dark forest.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "Trapped in the Game",
+      "scene_description": "As Maya touches the screen, a pixelated 'GAME START!' text appears in the air, and heavy iron gates slam shut around the forest clearing.",
+      "image_prompt": "Comic book style, close-up of Maya touching an arcade screen, bright neon text 'GAME START!' floating in the air, heavy iron gate bars crashing down around the forest, vibrant glowing effects against dark forest background.",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "Trapped in the Game",
+      "narration": "As Maya touches the screen, a pixelated 'GAME START!' text appears in the air, and heavy iron gates slam shut around the forest clearing.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "The Shadow Chase",
+      "scene_description": "Maya sprints through the dense, dark woods, looking back in terror as a towering, amorphous shadow monster looms right behind her.",
+      "image_prompt": "Dynamic action shot, Maya running fast through a dark forest, a terrifying dark shadow monster with glowing eyes chasing her, motion blur, dramatic shadows, comic book panel, high intensity.",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "The Shadow Chase",
+      "narration": "Maya sprints through the dense, dark woods, looking back in terror as a towering, amorphous shadow monster looms right behind her.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "The Final Decision",
+      "scene_description": "Inside a dim room, Maya stands before a table with two cards labeled 'LOSE' and 'WIN', her hand hovering over the 'WIN' card.",
+      "image_prompt": "Suspenseful interior scene, dim lighting, Maya standing at a wooden table, two glowing cards on the table, one says 'LOSE' the other 'WIN', Maya looking determined, cinematic comic book art, detailed facial expression.",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "The Final Decision",
+      "narration": "Inside a dim room, Maya stands before a table with two cards labeled 'LOSE' and 'WIN', her hand hovering over the 'WIN' card.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "Victory and Treasure",
+      "scene_description": "The game ends with a burst of light, and Maya emerges from the forest to find piles of gold, jewels, and treasure chests scattered on the grass.",
+      "image_prompt": "Wide shot, Maya standing outside the forest edge, bright sunlight, piles of gold coins and sparkling treasure chests surrounding her, 'GAME COMPLETED!' text in a comic book bubble, joyful yet mysterious atmosphere.",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "Victory and Treasure",
+      "narration": "The game ends with a burst of light, and Maya emerges from the forest to find piles of gold, jewels, and treasure chests scattered on the grass.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

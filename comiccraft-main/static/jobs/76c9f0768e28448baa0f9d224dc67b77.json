@@ -1,0 +1,135 @@
+{
+  "request": {
+    "story_prompt": "Maya is a young girl who enters a mysterious forest alone. Deep inside the forest, she discovers an old Game Machine near a huge tree.\r\nCurious, Maya touches the machine.\r\nSuddenly—\r\n“GAME START!” 🎮\r\nThe forest gates close, and Maya becomes trapped inside the game.\r\n🔴 Level 1 – Forest Run\r\nMaya must run through the dark forest while a terrifying shadow chases her. She avoids dangerous obstacles and successfully completes Level 1.\r\n🟠 Level 2 – Mystery House\r\nMaya enters an abandoned house filled with mysterious puzzles. She must solve the puzzles and find the correct exit before the game resets.\r\nUsing her intelligence, Maya completes Level 2.\r\n🟢 Level 3 – Final Choice\r\nMaya reaches the final room. On a table, she finds two cards:\r\n1️⃣ LOSE\r\n2️⃣ WIN\r\nA mysterious voice says:\r\n“Choose only one card…”\r\nMaya takes a deep breath and chooses the WIN card.\r\nSuddenly—\r\n💥 GAME COMPLETED! 💥\r\nThe door opens, and Maya escapes from the forest.\r\nOutside, she discovers the game's grand prize: bags of money, gold, and treasure. 💰💎",
+    "character_name": "Alex",
+    "setting": "enchanted forest",
+    "tone": "adventurous",
+    "art_style": "comic book",
+    "panel_count": 5
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Discovery",
+        "scene_description": "Alex, a young girl with messy hair and a backpack, stands before a massive, glowing tree in the heart of the enchanted forest. She reaches out to touch an ancient, glowing arcade machine embedded in the tree trunk.",
+        "image_prompt": "Comic book style, vivid colors, Alex a young girl with a backpack standing in a dense magical forest, an ancient glowing retro arcade machine fused with a giant tree, high contrast, dramatic lighting, detailed line art."
+      },
+      {
+        "panel_number": 2,
+        "title": "Game Start",
+        "scene_description": "A holographic screen flickers to life with 'GAME START!' in bold pixels. The forest behind Alex turns into digital lines, and heavy iron gates slam shut, trapping her in a pixelated reality.",
+        "image_prompt": "Comic book style, Alex looking surprised, holographic text GAME START glowing in the air, the forest surroundings turning into digital glitchy pixels, iron gates slamming shut in the background, action-oriented composition."
+      },
+      {
+        "panel_number": 3,
+        "title": "Level 1: The Chase",
+        "scene_description": "Alex is sprinting through a dark, ominous version of the forest. Behind her, a towering, ink-black shadow monster with glowing eyes lunges forward, forcing her to jump over a jagged rock obstacle.",
+        "image_prompt": "Comic book style, motion lines, Alex running fast away from a giant terrifying shadow creature, dark forest setting with glowing mushrooms, dynamic perspective, intense shadows and highlights."
+      },
+      {
+        "panel_number": 4,
+        "title": "Level 2: The Puzzle",
+        "scene_description": "Inside a dusty, abandoned Victorian-style room, Alex focuses intently as she aligns glowing runes on a stone pedestal, unlocking a hidden mechanism while a timer counts down above her head.",
+        "image_prompt": "Comic book style, indoor setting, Alex solving a glowing puzzle on a stone table, dust motes in the air, magical aura, a digital timer floating in the top corner, sharp focus on Alex's determined expression."
+      },
+      {
+        "panel_number": 5,
+        "title": "Victory and Reward",
+        "scene_description": "Alex stands outside the forest edge, the game machine vanished. She holds the 'WIN' card in one hand, while piles of gold coins and sparkling gems spill out from a chest at her feet.",
+        "image_prompt": "Comic book style, bright sunlight, Alex smiling triumphantly, holding a golden card, massive treasure chest filled with gold and jewels in the foreground, lush forest edge background, triumphant atmosphere."
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Discovery",
+        "caption": "The Discovery",
+        "narration": "Alex, a young girl with messy hair and a backpack, stands before a massive, glowing tree in the heart of the enchanted forest. She reaches out to touch an ancient, glowing arcade machine embedded in the tree trunk.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "Game Start",
+        "caption": "Game Start",
+        "narration": "A holographic screen flickers to life with 'GAME START!' in bold pixels. The forest behind Alex turns into digital lines, and heavy iron gates slam shut, trapping her in a pixelated reality.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "Level 1: The Chase",
+        "caption": "Level 1: The Chase",
+        "narration": "Alex is sprinting through a dark, ominous version of the forest. Behind her, a towering, ink-black shadow monster with glowing eyes lunges forward, forcing her to jump over a jagged rock obstacle.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "Level 2: The Puzzle",
+        "caption": "Level 2: The Puzzle",
+        "narration": "Inside a dusty, abandoned Victorian-style room, Alex focuses intently as she aligns glowing runes on a stone pedestal, unlocking a hidden mechanism while a timer counts down above her head.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "Victory and Reward",
+        "caption": "Victory and Reward",
+        "narration": "Alex stands outside the forest edge, the game machine vanished. She holds the 'WIN' card in one hand, while piles of gold coins and sparkling gems spill out from a chest at her feet.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Discovery",
+      "scene_description": "Alex, a young girl with messy hair and a backpack, stands before a massive, glowing tree in the heart of the enchanted forest. She reaches out to touch an ancient, glowing arcade machine embedded in the tree trunk.",
+      "image_prompt": "Comic book style, vivid colors, Alex a young girl with a backpack standing in a dense magical forest, an ancient glowing retro arcade machine fused with a giant tree, high contrast, dramatic lighting, detailed line art.",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Discovery",
+      "narration": "Alex, a young girl with messy hair and a backpack, stands before a massive, glowing tree in the heart of the enchanted forest. She reaches out to touch an ancient, glowing arcade machine embedded in the tree trunk.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "Game Start",
+      "scene_description": "A holographic screen flickers to life with 'GAME START!' in bold pixels. The forest behind Alex turns into digital lines, and heavy iron gates slam shut, trapping her in a pixelated reality.",
+      "image_prompt": "Comic book style, Alex looking surprised, holographic text GAME START glowing in the air, the forest surroundings turning into digital glitchy pixels, iron gates slamming shut in the background, action-oriented composition.",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "Game Start",
+      "narration": "A holographic screen flickers to life with 'GAME START!' in bold pixels. The forest behind Alex turns into digital lines, and heavy iron gates slam shut, trapping her in a pixelated reality.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "Level 1: The Chase",
+      "scene_description": "Alex is sprinting through a dark, ominous version of the forest. Behind her, a towering, ink-black shadow monster with glowing eyes lunges forward, forcing her to jump over a jagged rock obstacle.",
+      "image_prompt": "Comic book style, motion lines, Alex running fast away from a giant terrifying shadow creature, dark forest setting with glowing mushrooms, dynamic perspective, intense shadows and highlights.",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "Level 1: The Chase",
+      "narration": "Alex is sprinting through a dark, ominous version of the forest. Behind her, a towering, ink-black shadow monster with glowing eyes lunges forward, forcing her to jump over a jagged rock obstacle.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "Level 2: The Puzzle",
+      "scene_description": "Inside a dusty, abandoned Victorian-style room, Alex focuses intently as she aligns glowing runes on a stone pedestal, unlocking a hidden mechanism while a timer counts down above her head.",
+      "image_prompt": "Comic book style, indoor setting, Alex solving a glowing puzzle on a stone table, dust motes in the air, magical aura, a digital timer floating in the top corner, sharp focus on Alex's determined expression.",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "Level 2: The Puzzle",
+      "narration": "Inside a dusty, abandoned Victorian-style room, Alex focuses intently as she aligns glowing runes on a stone pedestal, unlocking a hidden mechanism while a timer counts down above her head.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "Victory and Reward",
+      "scene_description": "Alex stands outside the forest edge, the game machine vanished. She holds the 'WIN' card in one hand, while piles of gold coins and sparkling gems spill out from a chest at her feet.",
+      "image_prompt": "Comic book style, bright sunlight, Alex smiling triumphantly, holding a golden card, massive treasure chest filled with gold and jewels in the foreground, lush forest edge background, triumphant atmosphere.",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "Victory and Reward",
+      "narration": "Alex stands outside the forest edge, the game machine vanished. She holds the 'WIN' card in one hand, while piles of gold coins and sparkling gems spill out from a chest at her feet.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

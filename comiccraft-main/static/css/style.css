@@ -1,0 +1,333 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+
+    font-family: Arial, sans-serif;
+
+    background: #f4f6f8;
+
+    color: #222;
+}
+
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+
+    margin: auto;
+
+    padding: 30px 0;
+}
+
+
+.hero {
+    text-align: center;
+
+    padding: 30px 20px;
+}
+
+
+.hero h1 {
+    font-size: 42px;
+
+    margin-bottom: 10px;
+}
+
+
+.hero p {
+    color: #666;
+
+    font-size: 18px;
+}
+
+
+.card {
+    background: white;
+
+    max-width: 700px;
+
+    margin: 20px auto;
+
+    padding: 30px;
+
+    border-radius: 15px;
+
+    box-shadow:
+        0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+
+.card h2 {
+    margin-top: 0;
+
+    text-align: center;
+}
+
+
+form {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 10px;
+}
+
+
+label {
+    font-weight: bold;
+
+    margin-top: 10px;
+}
+
+
+input,
+textarea {
+    width: 100%;
+
+    padding: 12px;
+
+    border: 1px solid #ccc;
+
+    border-radius: 8px;
+
+    font-size: 16px;
+}
+
+
+textarea {
+    resize: vertical;
+}
+
+
+button {
+    border: none;
+
+    cursor: pointer;
+}
+
+
+.generate-btn {
+    margin-top: 20px;
+
+    padding: 14px;
+
+    border-radius: 8px;
+
+    background: #222;
+
+    color: white;
+
+    font-size: 17px;
+
+    font-weight: bold;
+}
+
+
+.generate-btn:hover {
+    opacity: 0.85;
+}
+
+
+.error {
+    max-width: 700px;
+
+    margin: 20px auto;
+
+    padding: 15px;
+
+    background: #ffe0e0;
+
+    color: #a00000;
+
+    border-radius: 8px;
+}
+
+
+.actions {
+    display: flex;
+
+    justify-content: center;
+
+    gap: 15px;
+
+    margin: 25px 0;
+
+    flex-wrap: wrap;
+}
+
+
+.download-btn,
+.back-btn {
+    display: inline-block;
+
+    padding: 12px 20px;
+
+    border-radius: 8px;
+
+    text-decoration: none;
+
+    font-weight: bold;
+}
+
+
+.download-btn {
+    background: #222;
+
+    color: white;
+}
+
+
+.back-btn {
+    background: white;
+
+    color: #222;
+
+    border: 1px solid #ccc;
+}
+
+
+.comic-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(auto-fit, minmax(300px, 1fr));
+
+    gap: 25px;
+}
+
+
+.comic-card {
+    background: white;
+
+    border-radius: 15px;
+
+    overflow: hidden;
+
+    box-shadow:
+        0 5px 20px rgba(0, 0, 0, 0.08);
+
+    padding-bottom: 20px;
+}
+
+
+.panel-number {
+    padding: 10px 15px;
+
+    background: #222;
+
+    color: white;
+
+    font-weight: bold;
+}
+
+
+.comic-card h2 {
+    padding: 0 20px;
+
+    margin-top: 18px;
+}
+
+
+.comic-image {
+    display: block;
+
+    width: 100%;
+
+    height: 420px;
+
+    object-fit: cover;
+
+    background: #eee;
+}
+
+
+.comic-text {
+    padding: 10px 20px;
+}
+
+
+.comic-text h3 {
+    margin-bottom: 5px;
+}
+
+
+.comic-text p {
+    line-height: 1.6;
+
+    color: #555;
+}
+
+
+.dialogue {
+    padding: 12px;
+
+    background: #f0f0f0;
+
+    border-radius: 8px;
+
+    font-style: italic;
+}
+
+
+.success-card {
+    max-width: 650px;
+
+    margin: 100px auto;
+
+    background: white;
+
+    padding: 50px;
+
+    text-align: center;
+
+    border-radius: 15px;
+
+    box-shadow:
+        0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+
+.success-icon {
+    font-size: 60px;
+
+    margin-bottom: 20px;
+}
+
+
+.success-card a {
+    margin: 10px;
+}
+
+
+footer {
+    text-align: center;
+
+    margin-top: 50px;
+
+    color: #777;
+}
+
+
+@media (max-width: 600px) {
+
+    .hero h1 {
+        font-size: 32px;
+    }
+
+    .container {
+        width: 94%;
+    }
+
+    .card {
+        padding: 20px;
+    }
+
+    .comic-image {
+        height: 350px;
+    }
+}

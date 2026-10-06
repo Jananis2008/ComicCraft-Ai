@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{ app_name }} - AI Comic Creator</title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', path='css/style.css') }}"
+    >
+</head>
+
+<body>
+
+<div class="container">
+
+    <header class="hero">
+        <h1>🎨 ComicCraft AI</h1>
+
+        <p>
+            Create your own AI-powered comic story
+            using Gemini and image generation.
+        </p>
+    </header>
+
+
+    {% if error %}
+
+    <div class="error">
+        {{ error }}
+    </div>
+
+    {% endif %}
+
+
+    <section class="card">
+
+        <h2>Create Your Comic</h2>
+
+        <form
+            action="/generate"
+            method="post"
+        >
+
+            <label for="story_prompt">
+                Story Idea
+            </label>
+
+            <textarea
+                id="story_prompt"
+                name="story_prompt"
+                rows="5"
+                placeholder="Example: A young hero discovers a magical portal..."
+                required
+            ></textarea>
+
+
+            <label for="character_name">
+                Character Name
+            </label>
+
+            <input
+                type="text"
+                id="character_name"
+                name="character_name"
+                value="Alex"
+                required
+            >
+
+
+            <label for="setting">
+                Setting
+            </label>
+
+            <input
+                type="text"
+                id="setting"
+                name="setting"
+                value="enchanted forest"
+                required
+            >
+
+
+            <label for="tone">
+                Story Tone
+            </label>
+
+            <input
+                type="text"
+                id="tone"
+                name="tone"
+                value="adventurous"
+                required
+            >
+
+
+            <label for="art_style">
+                Art Style
+            </label>
+
+            <input
+                type="text"
+                id="art_style"
+                name="art_style"
+                value="comic book"
+                required
+            >
+
+            <label for="panel_count">
+                Panels (1-5)
+            </label>
+
+            <input
+                type="number"
+                id="panel_count"
+                name="panel_count"
+                min="1"
+                max="5"
+                value="5"
+                required
+            >
+
+            <button
+                type="submit"
+                class="generate-btn"
+            >
+                🚀 Generate Comic
+            </button>
+
+        </form>
+
+    </section>
+
+
+    <footer>
+        <p>
+            ComicCraft AI &copy; 2026
+        </p>
+    </footer>
+
+</div>
+
+</body>
+</html>

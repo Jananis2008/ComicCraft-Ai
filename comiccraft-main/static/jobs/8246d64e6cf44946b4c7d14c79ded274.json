@@ -1,0 +1,134 @@
+{
+  "request": {
+    "story_prompt": "Maya is a young girl who enters a mysterious forest alone. Deep inside the forest, she discovers an old Game Machine near a huge tree.\r\nCurious, Maya touches the machine.\r\nSuddenly—\r\n“GAME START!” 🎮\r\nThe forest gates close, and Maya becomes trapped inside the game.\r\n🔴 Level 1 – Forest Run\r\nMaya must run through the dark forest while a terrifying shadow chases her. She avoids dangerous obstacles and successfully completes Level 1.\r\n🟠 Level 2 – Mystery House\r\nMaya enters an abandoned house filled with mysterious puzzles. She must solve the puzzles and find the correct exit before the game resets.\r\nUsing her intelligence, Maya completes Level 2.\r\n🟢 Level 3 – Final Choice\r\nMaya reaches the final room. On a table, she finds two cards:\r\n1️⃣ LOSE\r\n2️⃣ WIN\r\nA mysterious voice says:\r\n“Choose only one card…”\r\nMaya takes a deep breath and chooses the WIN card.\r\nSuddenly—\r\n💥 GAME COMPLETED! 💥\r\nThe door opens, and Maya escapes from the forest.\r\nOutside, she discovers the game's grand prize: bags of money, gold, and treasure. 💰💎",
+    "character_name": "Maya",
+    "setting": "enchanted forest",
+    "tone": "adventurous",
+    "art_style": "comic book"
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Beginning",
+        "scene_description": "Maya enters the enchanted forest.",
+        "image_prompt": "Maya entering a enchanted forest, comic book, cinematic comic panel"
+      },
+      {
+        "panel_number": 2,
+        "title": "The Discovery",
+        "scene_description": "Maya discovers something mysterious.",
+        "image_prompt": "Maya discovering a mysterious glowing object in the enchanted forest, comic book"
+      },
+      {
+        "panel_number": 3,
+        "title": "The Challenge",
+        "scene_description": "A difficult challenge suddenly appears.",
+        "image_prompt": "Maya facing a dramatic challenge in the enchanted forest, comic book"
+      },
+      {
+        "panel_number": 4,
+        "title": "The Solution",
+        "scene_description": "Maya finds a creative solution.",
+        "image_prompt": "Maya solving the challenge using courage and creativity, comic book"
+      },
+      {
+        "panel_number": 5,
+        "title": "The Ending",
+        "scene_description": "Maya completes the adventure successfully.",
+        "image_prompt": "Maya celebrating in the enchanted forest, happy ending, comic book"
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Beginning",
+        "caption": "The Beginning",
+        "narration": "Maya enters the enchanted forest.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "The Discovery",
+        "caption": "The Discovery",
+        "narration": "Maya discovers something mysterious.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "The Challenge",
+        "caption": "The Challenge",
+        "narration": "A difficult challenge suddenly appears.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "The Solution",
+        "caption": "The Solution",
+        "narration": "Maya finds a creative solution.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "The Ending",
+        "caption": "The Ending",
+        "narration": "Maya completes the adventure successfully.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Beginning",
+      "scene_description": "Maya enters the enchanted forest.",
+      "image_prompt": "Maya entering a enchanted forest, comic book, cinematic comic panel",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Beginning",
+      "narration": "Maya enters the enchanted forest.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "The Discovery",
+      "scene_description": "Maya discovers something mysterious.",
+      "image_prompt": "Maya discovering a mysterious glowing object in the enchanted forest, comic book",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "The Discovery",
+      "narration": "Maya discovers something mysterious.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "The Challenge",
+      "scene_description": "A difficult challenge suddenly appears.",
+      "image_prompt": "Maya facing a dramatic challenge in the enchanted forest, comic book",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "The Challenge",
+      "narration": "A difficult challenge suddenly appears.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "The Solution",
+      "scene_description": "Maya finds a creative solution.",
+      "image_prompt": "Maya solving the challenge using courage and creativity, comic book",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "The Solution",
+      "narration": "Maya finds a creative solution.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "The Ending",
+      "scene_description": "Maya completes the adventure successfully.",
+      "image_prompt": "Maya celebrating in the enchanted forest, happy ending, comic book",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "The Ending",
+      "narration": "Maya completes the adventure successfully.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

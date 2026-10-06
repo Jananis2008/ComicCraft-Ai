@@ -1,0 +1,135 @@
+{
+  "request": {
+    "story_prompt": "Maya is a young girl who enters a mysterious forest alone. Deep inside the forest, she discovers an old Game Machine near a huge tree.\r\nCurious, Maya touches the machine.\r\nSuddenly—\r\n“GAME START!” 🎮\r\nThe forest gates close, and Maya becomes trapped inside the game.\r\n🔴 Level 1 – Forest Run\r\nMaya must run through the dark forest while a terrifying shadow chases her. She avoids dangerous obstacles and successfully completes Level 1.\r\n🟠 Level 2 – Mystery House\r\nMaya enters an abandoned house filled with mysterious puzzles. She must solve the puzzles and find the correct exit before the game resets.\r\nUsing her intelligence, Maya completes Level 2.\r\n🟢 Level 3 – Final Choice\r\nMaya reaches the final room. On a table, she finds two cards:\r\n1️⃣ LOSE\r\n2️⃣ WIN\r\nA mysterious voice says:\r\n“Choose only one card…”\r\nMaya takes a deep breath and chooses the WIN card.\r\nSuddenly—\r\n💥 GAME COMPLETED! 💥\r\nThe door opens, and Maya escapes from the forest.\r\nOutside, she discovers the game's grand prize: bags of money, gold, and treasure. 💰💎",
+    "character_name": "Alex",
+    "setting": "enchanted forest",
+    "tone": "adventurous",
+    "art_style": "comic book",
+    "panel_count": 5
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Forbidden Discovery",
+        "scene_description": "Alex, a young girl with a backpack, stands before a colossal, glowing ancient tree in the heart of the enchanted forest. At the base of the tree sits a dusty, neon-lit arcade machine. She reaches out to touch the screen.",
+        "image_prompt": "Comic book style, vibrant colors, a young girl named Alex with shoulder-length brown hair and a blue jacket standing in a lush, magical forest. In front of her, an ancient, moss-covered arcade game machine sits under a giant tree. The screen glows with mysterious light. Dynamic angles, high contrast, detailed forest background."
+      },
+      {
+        "panel_number": 2,
+        "title": "Trapped in the Game",
+        "scene_description": "A massive, supernatural gate of vines and iron slams shut behind Alex. The arcade screen flashes 'GAME START!' in bright pixels, and the forest around her begins to glitch with digital artifacts.",
+        "image_prompt": "Comic book style, dramatic perspective. Alex looks startled as heavy, thorny forest gates slam shut behind her. The air is filled with digital pixels and glowing code particles. The text 'GAME START!' appears in a bold, retro arcade font in the air. Intense expression, cinematic lighting."
+      },
+      {
+        "panel_number": 3,
+        "title": "Level One: The Shadow Chase",
+        "scene_description": "Alex sprints through a dark, foggy section of the forest. A towering, amorphous shadow creature with glowing eyes looms behind her. She leaps over a fallen log, showing athletic determination.",
+        "image_prompt": "Comic book style, high-speed action shot. Alex is running fast, her hair flowing behind her. A terrifying, dark silhouette with glowing red eyes is chasing her through a misty forest. She is jumping over a mossy log. Motion blur, dark atmosphere with bright highlights, intense action."
+      },
+      {
+        "panel_number": 4,
+        "title": "Level Two: The Puzzle House",
+        "scene_description": "Alex stands inside a dusty, abandoned Victorian house within the forest. She is focused, holding a glowing puzzle piece as she fits it into a mechanism on the wall. The room is filled with floating, holographic symbols.",
+        "image_prompt": "Comic book style, interior shot. Alex is inside a spooky, dilapidated room with floating holographic geometry. She is carefully placing a glowing blue puzzle piece into a wall slot. Her expression is focused and intelligent. Warm, magical glow, detailed textures of old wood and stone."
+      },
+      {
+        "panel_number": 5,
+        "title": "Victory and Treasure",
+        "scene_description": "Alex stands outside the forest, holding a golden 'WIN' card. Behind her, the forest is quiet, and piles of gold coins and sparkling treasure chests are scattered at her feet.",
+        "image_prompt": "Comic book style, wide shot. Alex stands victorious in a sunny meadow outside the forest. She is holding a glowing golden card marked 'WIN'. Massive piles of gold, coins, and treasure chests surround her. The forest behind her is dim and quiet. Bright, triumphant lighting, celebratory atmosphere."
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Forbidden Discovery",
+        "caption": "The Forbidden Discovery",
+        "narration": "Alex, a young girl with a backpack, stands before a colossal, glowing ancient tree in the heart of the enchanted forest. At the base of the tree sits a dusty, neon-lit arcade machine. She reaches out to touch the screen.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "Trapped in the Game",
+        "caption": "Trapped in the Game",
+        "narration": "A massive, supernatural gate of vines and iron slams shut behind Alex. The arcade screen flashes 'GAME START!' in bright pixels, and the forest around her begins to glitch with digital artifacts.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "Level One: The Shadow Chase",
+        "caption": "Level One: The Shadow Chase",
+        "narration": "Alex sprints through a dark, foggy section of the forest. A towering, amorphous shadow creature with glowing eyes looms behind her. She leaps over a fallen log, showing athletic determination.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "Level Two: The Puzzle House",
+        "caption": "Level Two: The Puzzle House",
+        "narration": "Alex stands inside a dusty, abandoned Victorian house within the forest. She is focused, holding a glowing puzzle piece as she fits it into a mechanism on the wall. The room is filled with floating, holographic symbols.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "Victory and Treasure",
+        "caption": "Victory and Treasure",
+        "narration": "Alex stands outside the forest, holding a golden 'WIN' card. Behind her, the forest is quiet, and piles of gold coins and sparkling treasure chests are scattered at her feet.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Forbidden Discovery",
+      "scene_description": "Alex, a young girl with a backpack, stands before a colossal, glowing ancient tree in the heart of the enchanted forest. At the base of the tree sits a dusty, neon-lit arcade machine. She reaches out to touch the screen.",
+      "image_prompt": "Comic book style, vibrant colors, a young girl named Alex with shoulder-length brown hair and a blue jacket standing in a lush, magical forest. In front of her, an ancient, moss-covered arcade game machine sits under a giant tree. The screen glows with mysterious light. Dynamic angles, high contrast, detailed forest background.",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Forbidden Discovery",
+      "narration": "Alex, a young girl with a backpack, stands before a colossal, glowing ancient tree in the heart of the enchanted forest. At the base of the tree sits a dusty, neon-lit arcade machine. She reaches out to touch the screen.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "Trapped in the Game",
+      "scene_description": "A massive, supernatural gate of vines and iron slams shut behind Alex. The arcade screen flashes 'GAME START!' in bright pixels, and the forest around her begins to glitch with digital artifacts.",
+      "image_prompt": "Comic book style, dramatic perspective. Alex looks startled as heavy, thorny forest gates slam shut behind her. The air is filled with digital pixels and glowing code particles. The text 'GAME START!' appears in a bold, retro arcade font in the air. Intense expression, cinematic lighting.",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "Trapped in the Game",
+      "narration": "A massive, supernatural gate of vines and iron slams shut behind Alex. The arcade screen flashes 'GAME START!' in bright pixels, and the forest around her begins to glitch with digital artifacts.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "Level One: The Shadow Chase",
+      "scene_description": "Alex sprints through a dark, foggy section of the forest. A towering, amorphous shadow creature with glowing eyes looms behind her. She leaps over a fallen log, showing athletic determination.",
+      "image_prompt": "Comic book style, high-speed action shot. Alex is running fast, her hair flowing behind her. A terrifying, dark silhouette with glowing red eyes is chasing her through a misty forest. She is jumping over a mossy log. Motion blur, dark atmosphere with bright highlights, intense action.",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "Level One: The Shadow Chase",
+      "narration": "Alex sprints through a dark, foggy section of the forest. A towering, amorphous shadow creature with glowing eyes looms behind her. She leaps over a fallen log, showing athletic determination.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "Level Two: The Puzzle House",
+      "scene_description": "Alex stands inside a dusty, abandoned Victorian house within the forest. She is focused, holding a glowing puzzle piece as she fits it into a mechanism on the wall. The room is filled with floating, holographic symbols.",
+      "image_prompt": "Comic book style, interior shot. Alex is inside a spooky, dilapidated room with floating holographic geometry. She is carefully placing a glowing blue puzzle piece into a wall slot. Her expression is focused and intelligent. Warm, magical glow, detailed textures of old wood and stone.",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "Level Two: The Puzzle House",
+      "narration": "Alex stands inside a dusty, abandoned Victorian house within the forest. She is focused, holding a glowing puzzle piece as she fits it into a mechanism on the wall. The room is filled with floating, holographic symbols.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "Victory and Treasure",
+      "scene_description": "Alex stands outside the forest, holding a golden 'WIN' card. Behind her, the forest is quiet, and piles of gold coins and sparkling treasure chests are scattered at her feet.",
+      "image_prompt": "Comic book style, wide shot. Alex stands victorious in a sunny meadow outside the forest. She is holding a glowing golden card marked 'WIN'. Massive piles of gold, coins, and treasure chests surround her. The forest behind her is dim and quiet. Bright, triumphant lighting, celebratory atmosphere.",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "Victory and Treasure",
+      "narration": "Alex stands outside the forest, holding a golden 'WIN' card. Behind her, the forest is quiet, and piles of gold coins and sparkling treasure chests are scattered at her feet.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}

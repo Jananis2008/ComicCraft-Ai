@@ -1,0 +1,134 @@
+{
+  "request": {
+    "story_prompt": "A young girl named Emma discovers an old time machine in an abandoned laboratory. She accidentally travels 100 years into the future and finds a city in danger. Emma must solve a mysterious puzzle, save the city, and return home before the time machine disappears forever.",
+    "character_name": "Maya",
+    "setting": "Abandoned laboratory and futuristic city",
+    "tone": "Mysterious, adventurous, and exciting",
+    "art_style": "Cinematic sci-fi comic book"
+  },
+  "outline": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Forgotten Discovery",
+        "scene_description": "Maya, a young girl with messy hair and goggles, pushes aside dusty tarps in a dark, abandoned laboratory to reveal a glowing, metallic time machine console.",
+        "image_prompt": "Cinematic sci-fi comic book style, low angle shot, Maya with brown hair and goggles looking at a mysterious glowing console in a dilapidated lab, dust motes dancing in light beams, dramatic shadows, high detail, 8k."
+      },
+      {
+        "panel_number": 2,
+        "title": "Leap Through Time",
+        "scene_description": "Maya accidentally hits a switch and is enveloped by a swirling vortex of blue energy that warps the space around her, pulling her into the unknown.",
+        "image_prompt": "Cinematic sci-fi comic book style, dynamic action shot, Maya in the center being engulfed by a swirling vortex of electric blue energy, distorted lab surroundings, motion blur, glowing particles, intense lighting."
+      },
+      {
+        "panel_number": 3,
+        "title": "City of Neon Peril",
+        "scene_description": "Maya lands in a futuristic city 100 years ahead. The skyline is dominated by floating structures and flickering neon, but the sky is turning a dangerous, ominous crimson.",
+        "image_prompt": "Cinematic sci-fi comic book style, wide shot, futuristic cityscape with hovering vehicles and glass towers, sky is a menacing deep red, Maya standing in the foreground looking up in awe and worry, vibrant neon lighting."
+      },
+      {
+        "panel_number": 4,
+        "title": "The Final Puzzle",
+        "scene_description": "Maya stands before a massive, floating holographic terminal in the city center, frantically aligning geometric light patterns to stabilize the city's crumbling energy field.",
+        "image_prompt": "Cinematic sci-fi comic book style, close-up on Maya's focused face, holographic interface reflecting in her eyes, floating geometric shapes glowing brightly, intense atmosphere, sharp focus on the puzzle interface."
+      },
+      {
+        "panel_number": 5,
+        "title": "The Narrow Escape",
+        "scene_description": "The city stabilizes as the energy field glows gold. Maya dives back into the flickering time machine just as it begins to dematerialize, successfully returning home.",
+        "image_prompt": "Cinematic sci-fi comic book style, heroic exit, golden energy wave washing over the city, Maya jumping into a shimmering portal, the time machine fading into transparent light, epic conclusion, cinematic composition."
+      }
+    ]
+  },
+  "story": {
+    "panels": [
+      {
+        "panel_number": 1,
+        "title": "The Forgotten Discovery",
+        "caption": "The Forgotten Discovery",
+        "narration": "Maya, a young girl with messy hair and goggles, pushes aside dusty tarps in a dark, abandoned laboratory to reveal a glowing, metallic time machine console.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 2,
+        "title": "Leap Through Time",
+        "caption": "Leap Through Time",
+        "narration": "Maya accidentally hits a switch and is enveloped by a swirling vortex of blue energy that warps the space around her, pulling her into the unknown.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 3,
+        "title": "City of Neon Peril",
+        "caption": "City of Neon Peril",
+        "narration": "Maya lands in a futuristic city 100 years ahead. The skyline is dominated by floating structures and flickering neon, but the sky is turning a dangerous, ominous crimson.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 4,
+        "title": "The Final Puzzle",
+        "caption": "The Final Puzzle",
+        "narration": "Maya stands before a massive, floating holographic terminal in the city center, frantically aligning geometric light patterns to stabilize the city's crumbling energy field.",
+        "dialogue": "I can do this! The adventure continues!"
+      },
+      {
+        "panel_number": 5,
+        "title": "The Narrow Escape",
+        "caption": "The Narrow Escape",
+        "narration": "The city stabilizes as the energy field glows gold. Maya dives back into the flickering time machine just as it begins to dematerialize, successfully returning home.",
+        "dialogue": "I can do this! The adventure continues!"
+      }
+    ]
+  },
+  "comic": [
+    {
+      "panel_number": 1,
+      "title": "The Forgotten Discovery",
+      "scene_description": "Maya, a young girl with messy hair and goggles, pushes aside dusty tarps in a dark, abandoned laboratory to reveal a glowing, metallic time machine console.",
+      "image_prompt": "Cinematic sci-fi comic book style, low angle shot, Maya with brown hair and goggles looking at a mysterious glowing console in a dilapidated lab, dust motes dancing in light beams, dramatic shadows, high detail, 8k.",
+      "image_path": "/static/panels/panel_1.png",
+      "caption": "The Forgotten Discovery",
+      "narration": "Maya, a young girl with messy hair and goggles, pushes aside dusty tarps in a dark, abandoned laboratory to reveal a glowing, metallic time machine console.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 2,
+      "title": "Leap Through Time",
+      "scene_description": "Maya accidentally hits a switch and is enveloped by a swirling vortex of blue energy that warps the space around her, pulling her into the unknown.",
+      "image_prompt": "Cinematic sci-fi comic book style, dynamic action shot, Maya in the center being engulfed by a swirling vortex of electric blue energy, distorted lab surroundings, motion blur, glowing particles, intense lighting.",
+      "image_path": "/static/panels/panel_2.png",
+      "caption": "Leap Through Time",
+      "narration": "Maya accidentally hits a switch and is enveloped by a swirling vortex of blue energy that warps the space around her, pulling her into the unknown.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 3,
+      "title": "City of Neon Peril",
+      "scene_description": "Maya lands in a futuristic city 100 years ahead. The skyline is dominated by floating structures and flickering neon, but the sky is turning a dangerous, ominous crimson.",
+      "image_prompt": "Cinematic sci-fi comic book style, wide shot, futuristic cityscape with hovering vehicles and glass towers, sky is a menacing deep red, Maya standing in the foreground looking up in awe and worry, vibrant neon lighting.",
+      "image_path": "/static/panels/panel_3.png",
+      "caption": "City of Neon Peril",
+      "narration": "Maya lands in a futuristic city 100 years ahead. The skyline is dominated by floating structures and flickering neon, but the sky is turning a dangerous, ominous crimson.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 4,
+      "title": "The Final Puzzle",
+      "scene_description": "Maya stands before a massive, floating holographic terminal in the city center, frantically aligning geometric light patterns to stabilize the city's crumbling energy field.",
+      "image_prompt": "Cinematic sci-fi comic book style, close-up on Maya's focused face, holographic interface reflecting in her eyes, floating geometric shapes glowing brightly, intense atmosphere, sharp focus on the puzzle interface.",
+      "image_path": "/static/panels/panel_4.png",
+      "caption": "The Final Puzzle",
+      "narration": "Maya stands before a massive, floating holographic terminal in the city center, frantically aligning geometric light patterns to stabilize the city's crumbling energy field.",
+      "dialogue": "I can do this! The adventure continues!"
+    },
+    {
+      "panel_number": 5,
+      "title": "The Narrow Escape",
+      "scene_description": "The city stabilizes as the energy field glows gold. Maya dives back into the flickering time machine just as it begins to dematerialize, successfully returning home.",
+      "image_prompt": "Cinematic sci-fi comic book style, heroic exit, golden energy wave washing over the city, Maya jumping into a shimmering portal, the time machine fading into transparent light, epic conclusion, cinematic composition.",
+      "image_path": "/static/panels/panel_5.png",
+      "caption": "The Narrow Escape",
+      "narration": "The city stabilizes as the energy field glows gold. Maya dives back into the flickering time machine just as it begins to dematerialize, successfully returning home.",
+      "dialogue": "I can do this! The adventure continues!"
+    }
+  ]
+}
